@@ -3,6 +3,7 @@
 ! Title: Hexxium Threat List
 ! Expires: 4 days
 ! Version: 20160629
+! Checksum: 9xPUIzDp78Fw01TXoq0e5Q
 !
 ! List gathered from https://hexxiumcreations.com/domain-ip-threat-database/
 ||24newsoft.newupdate4system.online/
