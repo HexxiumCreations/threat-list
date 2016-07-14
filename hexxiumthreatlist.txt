@@ -4,6 +4,7 @@
 ! Expires: 4 days
 ! Version: 20160629
 ! Checksum: 1sbn4Ve1xvoFNSO8YMqs/A
+! Credits: XelieXirish-Hexxium-GilbertGobbels-floogulinc
 !
 ! List gathered from https://hexxiumcreations.com/domain-ip-threat-database/
 ||24newsoft.newupdate4system.online/
