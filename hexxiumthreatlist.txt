@@ -4,6 +4,14 @@
 ! ($document) is used to prevent file downloads without blocking an entire domain
 ! Version: 20170718
 !
+||adflybot.info/
+||
+||
+||
+||
+||
+||
+||
 ||
 ||
 ||
