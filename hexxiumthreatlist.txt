@@ -1,11 +1,18 @@
 [Adblock Plus 2.0]
-! Homepage: https://hexxiumcreations.github.io/threat-list/
-! Title: Hexxium Threat List
-! Expires: 4 days
-! Version: 20160629
-! Checksum: 1sbn4Ve1xvoFNSO8YMqs/A
+! For issues, refer to: https://hexxiumcreations.com/request-domain-ip-reclassification/
+! Report domains not being properly blocked to: support@hexxiumcreations.com
+! ($document) is used to prevent file downloads without blocking an entire domain
+! Version: 20170718
 !
-! List gathered from https://hexxiumcreations.com/domain-ip-threat-database/
+||
+||
+||
+||
+||
+||
+||
+||
+||
 ||24newsoft.newupdate4system.online/
 ||experimentalscene.com/downloads/DarkWave-Studio-5.5.2-Setup.exe$document
 ||free.easyphotoedit.com/
