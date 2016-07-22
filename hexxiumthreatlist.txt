@@ -1,4 +1,7 @@
 [Adblock Plus 2.0]
+! Homepage: https://hexxiumcreations.github.io/threat-list/
+! Title: Hexxium Threat List
+! Expires: 4 days
 ! For issues, refer to: https://hexxiumcreations.com/request-domain-ip-reclassification/
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! ($document) is used to prevent file downloads without blocking an entire domain
@@ -8,7 +11,7 @@
 ||upalways.247freesearchupdate.download/
 ||5wezz.alldownloads.6575878.com/
 ||visitorsurveyscenter.com/
-||excgame.com/star-wars-jedi-knight-jedi-academy-pc/	
+||excgame.com/star-wars-jedi-knight-jedi-academy-pc/
 ||codes-world.com/free-codes-xbox-live-gold/
 ||download-free-games.com/simulation/rollercoaster_tycoon2.htm$document
 ||watchformytechstuff.com/
