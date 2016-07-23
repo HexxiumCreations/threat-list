@@ -1,12 +1,56 @@
 [Adblock Plus 2.0]
 ! Homepage: https://hexxiumcreations.github.io/threat-list/
-! Title: Hexxium Threat List
+! Title: Hexxium Creations Threat List
 ! Expires: 4 days
 ! For issues, refer to: https://hexxiumcreations.com/request-domain-ip-reclassification/
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! ($document) is used to prevent file downloads without blocking an entire domain
-! Version: 20170718
+! Version: 20160723
 !
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||unkcrawlt.bid/
+||crack2games.com/
+||bellefonte.net/
 ||rectangledownloads.com/
 ||upalways.247freesearchupdate.download/
 ||5wezz.alldownloads.6575878.com/
