@@ -7,35 +7,6 @@
 ! ($document) is used to prevent file downloads without blocking an entire domain
 ! Version: 20160723
 !
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
 ||ohtrial.press
 ||ohtrial.press/m02-8696/
 ||bhookhand.com/
