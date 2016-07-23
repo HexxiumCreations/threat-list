@@ -9,6 +9,5 @@
 ## Pull requests
 
 - Make sure that every entry follows [Adblock Plus filter rules](https://adblockplus.org/en/filters).
-- Update the [checksum](https://adblockplus.org/en/filters#special-comments).
 - Update the version with the format `yyyyMMdd`.
 - Do not add extra empty line.
