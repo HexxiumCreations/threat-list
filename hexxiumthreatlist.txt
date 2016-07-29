@@ -5,8 +5,9 @@
 ! For issues, refer to: https://hexxiumcreations.com/request-domain-ip-reclassification/
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! ($document) is used to prevent file downloads without blocking an entire domain
-! Version: 20160723
+! Version: 20160729
 !
+||yify.tv/
 ||ohtrial.press
 ||ohtrial.press/m02-8696/
 ||bhookhand.com/
