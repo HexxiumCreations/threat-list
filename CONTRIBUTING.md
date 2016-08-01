@@ -8,6 +8,7 @@
 
 ## Pull requests
 
+- Please fork the repository to your own account for making pull requests.
 - Make sure that every entry follows [Adblock Plus filter rules](https://adblockplus.org/en/filters).
 - Update the version with the format `yyyyMMdd`.
 - Do not add extra empty line.
