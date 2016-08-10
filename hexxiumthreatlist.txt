@@ -5,8 +5,10 @@
 ! For issues, refer to: https://hexxiumcreations.com/request-domain-ip-reclassification/
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! ($document) is used to prevent file downloads without blocking an entire domain
-! Version: 20160729
+! (YYYY/MM/DD)
+! Version: 20160809
 !
+||546515.18346e41a5860446129b94e7ff55cd58sessioninboxmsg411953717.ssl-logs-jl.com/
 ||yify.tv/
 ||ohtrial.press/
 ||bhookhand.com/
