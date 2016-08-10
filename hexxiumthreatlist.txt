@@ -8,6 +8,7 @@
 ! (YYYY/MM/DD)
 ! Version: 20160809
 !
+||canehoney.com/
 ||ssl-logs-jl.com/
 ||yify.tv/
 ||ohtrial.press/
