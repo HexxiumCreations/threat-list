@@ -2,12 +2,15 @@
 ! Homepage: https://hexxiumcreations.github.io/threat-list/
 ! Title: Hexxium Creations Threat List
 ! Expires: 4 days
-! For issues, refer to: https://hexxiumcreations.com/request-domain-ip-reclassification/
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! ($document) is used to prevent file downloads without blocking an entire domain
 ! (YYYY/MM/DD)
-! Version: 20160809
+! Version: 20161103
 !
+||mindvipshop.com/
+||order-veri-ssl.com/
+||paysafefastpage.net/
+||2016forbesnews-a.net/
 ||canehoney.com/
 ||ssl-logs-jl.com/
 ||yify.tv/
