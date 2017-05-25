@@ -6,8 +6,31 @@
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! ($document) is used to prevent file downloads without blocking an entire domain
 ! (YYYY/MM/DD)
-! Version: 20170409
+! Version: 20170525
 !
+||c.img001.com/re58/qixi_20200013406.exe$document
+||bargainshop.councilofcoders.com/wp-includes/inst1.exe$document
+||giftcardbonus.us.com/
+||app-bounty.mobi-games.co.uk/
+||installopensoftware.com/
+||sweepstakescentralusa.com/
+||itunesfire.com/
+||amazongiftcard.latestcheat.com/
+||premium-softwares.com/
+||giftcardrebel.tech/
+||getcode.pw/
+||filerockerz.com/
+||freegiftcards.tech/
+||kayyo.tech/
+||steam-community.com/
+||giftdealer.net/
+||areyouabot.net/
+||subscribersgift.tk
+||cheatsgenerator.com/
+||techshelpwithcomputers.com/
+||robloxrobuxhacks.com/
+||steamwalletcodegenerator.pro/
+||media-fire.org/
 ||imgrem.com/
 ||mindvipshop.com/
 ||order-veri-ssl.com/
