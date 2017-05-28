@@ -6,8 +6,11 @@
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! ($document) is used to prevent file downloads without blocking an entire domain
 ! (YYYY/MM/DD)
-! Version: 20170525
+! Version: 20170528
 !
+||ryesurvey.com/
+||toprewardsvault.com/
+||nonstoprewards.com/
 ||c.img001.com/re58/qixi_20200013406.exe$document
 ||bargainshop.councilofcoders.com/wp-includes/inst1.exe$document
 ||giftcardbonus.us.com/
