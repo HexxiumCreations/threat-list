@@ -9,13 +9,13 @@
 ! Version: 20170530
 !
 ||gamehub.site
-||start.liltmedia.com/
+||liltmedia.com/ #test
 ||4man9.cf/
 ||alibabamovie.com/
 ||playmoviex.com/
 ||n4no.gq/
 ||cum4tcomot.tk/
-||watch.housemovieonline.com/
+||housemovieonline.com/ #test
 ||kudaliar.moviesvk.com/
 ||ku4li-t4s.tk/
 ||hd.movieoz.us/
@@ -27,7 +27,7 @@
 ||netflix.original4kfilm.com/
 ||p4tok.cf/
 ||imovie07.tk/
-||watch.movieunlimited.us/
+||movieunlimited.us/ #test
 ||newlinecinema.cf/
 ||kezed.tk/
 ||cinabbar21.cf/
