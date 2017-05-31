@@ -6,8 +6,58 @@
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! ($document) is used to prevent file downloads without blocking an entire domain
 ! (YYYY/MM/DD)
-! Version: 20170528
+! Version: 20170530
 !
+||gamehub.site
+||start.liltmedia.com/
+||4man9.cf/
+||alibabamovie.com/
+||playmoviex.com/
+||n4no.gq/
+||cum4tcomot.tk/
+||watch.housemovieonline.com/
+||kudaliar.moviesvk.com/
+||ku4li-t4s.tk/
+||hd.movieoz.us/
+||megashareonline.filminstan.pw/
+||warior-stream.moviesvk.com/
+||ags.prolltape.com/
+||leutak.tk/
+||newtsplay.com/
+||redflix.us/
+||netflix.original4kfilm.com/
+||p4tok.cf/
+||imovie07.tk/
+||watch.movieunlimited.us/
+||newlinecinema.cf/
+||kezed.tk/
+||cinabbar21.cf/
+||stream.myflix-us.com/
+||a4ll.tk/
+||stream.muvideo.us/
+||server9.hdmovieplay.com/
+||supermariorunworld.com/
+||tweakbit.com/
+||register.cinematrix.net/
+||choiceconsumergifts.com/
+||stream.movie-4k-hd.com/
+||fullmovie24k.com/
+||cinema4k.pw/
+||online.treckstream.com/
+||sequelmovie.xyz/
+||imov-4k.tk/
+||mensmovie.net/
+||congorgetsfree.ml/
+||stream.moviecuz.com/
+||originals.foxtv.us/
+||netflixhd.com/
+||netflixmoovie.com/
+||setell.org/
+||moviata.com/
+||webmovie4k.com/
+||warior-stream.moviesvk.com/
+||nanang.us/
+||tvmovie.info/
 ||ryesurvey.com/
 ||toprewardsvault.com/
 ||nonstoprewards.com/
