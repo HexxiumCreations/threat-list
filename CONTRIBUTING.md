@@ -18,14 +18,14 @@
 ||https://www.subdomain.example.com/?36345656
 
 - Example (Correct way):
-||example.com/
+||example.com^
 
 - Example (Correct way #2):
-||subdomain.example.com
+||subdomain.example.com^
 
 At no point should a domain have any prefix such as https:// or www. in the list, addtionally, subdomains should NOT be used unless you fully intend to block ONLY that subdomain and not the entire domain. You do not need to include any pages or data beyond the .com (.tk,.ca, etc) to block the domain.
 
-Please append a / to the end of any domain unless it breaks the blocking of the domain. To label your submissions, append a space after the last / and then a # followed by the label, example:
+Please append a ^ to the end of any domain. To label your submissions, append a space after the ^ and then a # followed by the label, example:
 
 - ||example.com/ #Malware
 
