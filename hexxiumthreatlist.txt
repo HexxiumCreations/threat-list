@@ -5,9 +5,51 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20170602
+! Version: 20170606
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||safegens.com^
+||giftcodegenerators.com^
+||hub4hacks.com^
+||specialpromotion.us^
+||grabyourcode.com^
+||codeshunter.com^
+||jual0.com^
+||imba-tools.com^
+||downloadtuesday.com^
+||24sevenapps.com^
+||cheatfiles.org^
+||cheatfield.pw^
+||instantgiftcodes.com^
+||freegiftcardcode.net^
+||gameath.com^
+||gamerauthority.com^
+||getfreenow.cf^
+||getgiftcards.org^
+||giftcodes.site^
+||downloadhackedgames.com^
+||gift-codes.xyz^
+||sweepstakesnow.info^
+||gamegenerator.eu^
+||cleanfiles.org^
+||freeeshopcodes.com^
+||fileload.ml^
+||motifiles.com^
+||fastgiveaway.com^
+||infositee.com^
+||funrevamp.com^
+||consumersurvey10.com^
+||electronicsproductzone.com^
+||sheerrewards.com^
+||up4updatenew.info^
+||hapc.gdn^
+||surveyshopping.com^
+||nationalrewardsurveys.com^
+||videostripe.com^
+||triggerinstalls.com^
+||fileml.com^
+||bandretail.com^
+||yourbestandupdatessafe.win^
 ||alwayslucky.club^
 ||wimirk.site^
 ||gamehub.site^
