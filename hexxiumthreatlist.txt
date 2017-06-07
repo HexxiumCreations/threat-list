@@ -5,9 +5,38 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20170606
+! Version: 20170607
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||microsoft-protection-from-ransomeware-fix-now.com^
+||geteasyarcade.com^
+||thesafestandbestupdate4ever.pro^
+||istripper.com^
+||greatdownloadapps95.download^
+||stream-it.online^
+||35.184.169.188^
+||cd-secure.com^
+||elvenar.com^
+||coco2games.com^
+||thesafesystemsupdateforpcandmac.pw^
+||newtabtv.com^
+||alert-service.org^
+||mystartab.com^
+||com-travel.website^
+||antivirus-software-security.com^
+||videodownloadconverter.com^
+||updatefastnow.com^
+||nationalopinionsurvey.com^
+||marmrtr107.com^
+||onlinewebsrvy.com^
+||televisionfanatic.com^
+||thesafesystemsupdateforpcandmac.info^
+||com-travel.website^
+||addiliate.com^
+||kd2244.com^
+||tnctrx.com^
+||socialnewpages.com^
+||gormint.tk^
 ||safegens.com^
 ||giftcodegenerators.com^
 ||hub4hacks.com^
