@@ -5,9 +5,71 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20170607
+! Version: 20170612
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||fenb.gdn^
+||datewon.net^
+||gusasa.men^
+||aupelh.men^^
+||rewardsurveysgroup.com^
+||lockredirect.com^
+||icodesgenerator.com^
+||perfectdownloads.online^
+||downloadthefile.co.uk^
+||codegenerator.xyz^
+||giftcardcodeonline.com^
+||itunescodez.com^
+||getitunescodes.com^
+||reliabledownloads.org^
+||windowstechsupportphonenumber.com^
+||freetunesgiftcards.com^
+||blissinstalls.com^
+||giveforyou.us^
+||cpbld.co^
+||cheatslandia.com^
+||codesplace.com^
+||cinema07.com^
+||rockingfolders.com^
+||gemsgiveaway.in^
+||free-itunes-codes.net^
+||trustedhacks.com^
+||shareuptodate.com^
+||cochacker.top^
+||onlineappcheats.com^
+||clasherator.com^
+||onlinesourceperfect.com^
+||bestgameshacks.com^
+||mygamehack.net^
+||gameb.us^
+||cpbld.co^
+||giveforyou.us^
+||e-clashroyale.com^
+||dwnlds.co^
+||giftcard-rebel.online^
+||coclans.ga^
+||gamehack123.us^
+||myhacks.us^
+||critical-system-alertlf7f27.stream^
+||promotiontown.com^
+||ytrack.club^
+||error-warningef-1.pro^
+||masturbationsideeffectws.info^
+||todayresearch.com^
+||3718904783640140613463143671.site^
+||cheatfiles.org^
+||gamehjack.com^
+||gameappsforphone.com^
+||goodprostar.com^
+||uphero.com^
+||myhacks.info^
+||dwnlds.co^
+||nouveau-logiciel.net^
+||safegenerator.eu^
+||cpbld.co^
+||gamegenerator.eu^
+||casaherencia.com^
+||pcoptimizerpro.com^
 ||microsoft-protection-from-ransomeware-fix-now.com^
 ||geteasyarcade.com^
 ||thesafestandbestupdate4ever.pro^
