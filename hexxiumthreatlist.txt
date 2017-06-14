@@ -42,8 +42,6 @@
 ||bestgameshacks.com^
 ||mygamehack.net^
 ||gameb.us^
-||cpbld.co^
-||giveforyou.us^
 ||e-clashroyale.com^
 ||dwnlds.co^
 ||giftcard-rebel.online^
@@ -63,10 +61,8 @@
 ||goodprostar.com^
 ||uphero.com^
 ||myhacks.info^
-||dwnlds.co^
 ||nouveau-logiciel.net^
 ||safegenerator.eu^
-||cpbld.co^
 ||gamegenerator.eu^
 ||casaherencia.com^
 ||pcoptimizerpro.com^
@@ -108,7 +104,6 @@
 ||imba-tools.com^
 ||downloadtuesday.com^
 ||24sevenapps.com^
-||cheatfiles.org^
 ||cheatfield.pw^
 ||instantgiftcodes.com^
 ||freegiftcardcode.net^
@@ -120,7 +115,6 @@
 ||downloadhackedgames.com^
 ||gift-codes.xyz^
 ||sweepstakesnow.info^
-||gamegenerator.eu^
 ||cleanfiles.org^
 ||freeeshopcodes.com^
 ||fileload.ml^
