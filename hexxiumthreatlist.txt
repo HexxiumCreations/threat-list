@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Homepage: https://hexxiumcreations.github.io/threat-list/
-! Website: https://www.hexxiumcreations.com/projects/malicious-domain-blocker/
+! Website: https://www.hexxiumcreations.com/projects/malicious-domain-blocking/
 ! Title: Hexxium Creations Threat List
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
