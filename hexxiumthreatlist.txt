@@ -1,17 +1,67 @@
 [Adblock Plus 2.0]
 ! Homepage: https://hexxiumcreations.github.io/threat-list/
-! Website: https://www.hexxiumcreations.com/projects/malicious-domain-blocker/
+! Website: https://www.hexxiumcreations.com/projects/malicious-domain-blocking/
 ! Title: Hexxium Creations Threat List
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20170612
+! Version: 20170630
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||pcbooster.biz
+||yourperfectbrowsertoupgrade.site
+||updatelunch.download^
+||diko.gdn^
+||promotionbrand.com^
+||criticaldefaulterrorx02158.com^
+||megaplayz.com^
+||247gamerz.com^
+||siteconsumer.com^
+||com-scrsoftfix.us^
+||getgiftcodes.com^
+||gemgenarate.com^
+||luckyoferta.com^
+||gift-card-rebel.com^
+||giftcardrebel.co^
+||giftcardrebel.top^
+||playhacks.online^
+||rebelgiftcards.com^
+||psplus.online^
+||consumerproductstar.com^
+||getfreecodes.club^
+||pcwolf.org^
+||onlinegenerator.org^
+||zealotfun.com^
+||code-wizard.online^
+||freegiftcards.store^
+||gatewayonline.space^
+||rackcdn.com^
+||freeppalmon.xyz^
+||amazongiveaway.info^
+||bigandsafeever4upgrading.site^
+||fixerror.com^
+||dlflash.net^
+||propccleaner.com^
+||my-pc-cleaner.org^
+||neatfeedback.com^
+||tryprovapor.com^
+||popplayz.com^
+||prtsoftfix7.us^
+||google-play-gift-card-generator.com^
+||googleplaygiftcardgenerator.net^
+||giftcardspro.net^
+||codegenerators.top^
+||gplaygiftcardgenerator.online^
+||freegplaygiftcard.xyz^
+||freecodeshub.com^
+||onlinegplaygiftcardgenerator.top^
+||gplaygenerator.com^
+||giftcardrebel.xyz^
+||googleplaygiftcardgenerators.com^
 ||fenb.gdn^
 ||datewon.net^
 ||gusasa.men^
-||aupelh.men^^
+||aupelh.men^
 ||rewardsurveysgroup.com^
 ||lockredirect.com^
 ||icodesgenerator.com^
