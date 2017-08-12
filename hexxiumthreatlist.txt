@@ -5,9 +5,12 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20170715
+! Version: 20170812
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||smartsupportconnect.com^
+||giftcards4fans.com^
+||getgiftcards.org^
 ||filesquick.net^
 ||tkpassword.com^
 ||ec2-34-202-192-87.compute-1.amazonaws.com^
