@@ -8,6 +8,7 @@
 ! Version: 20170812
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||d-h.st^
 ||smartsupportconnect.com^
 ||giftcards4fans.com^
 ||getgiftcards.org^
