@@ -8,6 +8,8 @@
 ! Version: 20170818
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||maparchltd.co.uk^
+||52.10.239.23^
 ||festivol.com^
 ||d-h.st^
 ||smartsupportconnect.com^
