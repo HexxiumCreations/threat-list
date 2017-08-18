@@ -8,6 +8,16 @@
 ! Version: 20170818
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||airsciences.com.au^
+||cybergymnasiet.se^
+||hfhj.stream^
+||feedmillline.com^
+||3dtanghua.com^
+||uhhk.cricket^
+||34.213.94.108^
+||myrxontime.com^
+||bongacams.com^
+||playstore-privilage.us^
 ||maparchltd.co.uk^
 ||52.10.239.23^
 ||festivol.com^
