@@ -5,7 +5,7 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20170818
+! Version: 20170823
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
 ||techowide.com^
@@ -22,7 +22,6 @@
 ||playstore-privilage.us^
 ||maparchltd.co.uk^
 ||52.10.239.23^
-||festivol.com^
 ||d-h.st^
 ||smartsupportconnect.com^
 ||giftcards4fans.com^
