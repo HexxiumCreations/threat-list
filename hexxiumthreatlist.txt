@@ -8,6 +8,11 @@
 ! Version: 20170823
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||browsersafety.win^
+||internetprecaution.win^
+||protectpc.win^
+||microsoft-officefamily.com^
+||gootup.com^
 ||techowide.com^
 ||hdwon.us^
 ||airsciences.com.au^
