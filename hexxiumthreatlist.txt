@@ -8,6 +8,7 @@
 ! Version: 20170912
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||zoomsupport.com^
 ||wpsmartsecurity.com^
 ||browsersafety.win^
 ||internetprecaution.win^
