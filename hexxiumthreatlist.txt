@@ -5,7 +5,7 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20170916
+! Version: 20170918
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
 ||livebetaservers.com^
