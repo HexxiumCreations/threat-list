@@ -8,6 +8,7 @@
 ! Version: 20170918
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||shop4followers.com^
 ||livebetaservers.com^
 ||yotafiles.com^
 ||guoooo.tk^
