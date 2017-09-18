@@ -8,6 +8,7 @@
 ! Version: 20170916
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||livebetaservers.com^
 ||yotafiles.com^
 ||guoooo.tk^
 ||zoomsupport.com^
