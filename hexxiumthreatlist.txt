@@ -5,9 +5,10 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20170918
+! Version: 20170919
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||blueangelhost.com^
 ||shop4followers.com^
 ||livebetaservers.com^
 ||yotafiles.com^
