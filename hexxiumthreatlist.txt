@@ -8,6 +8,8 @@
 ! Version: 20170923
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||openbeta.weebly.com^
+||yeezystretch.online^
 ||fairyseason.com^
 ||gpsoutlets.com^
 ||claimiphone7.net^
