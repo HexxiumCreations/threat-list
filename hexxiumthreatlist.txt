@@ -5,9 +5,12 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20170921
+! Version: 20170923
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||claimiphone7.net^
+||claimi7.com^
+||claimapplewatch.com^
 ||hnxcvdpc.tk^
 ||blueangelhost.com^
 ||shop4followers.com^
