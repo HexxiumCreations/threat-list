@@ -5,9 +5,10 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20170923
+! Version: 20170925
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||hf-la-68.s3.amazonaws.com^
 ||openbeta.weebly.com^
 ||yeezystretch.online^
 ||fairyseason.com^
@@ -36,12 +37,10 @@
 ||feedmillline.com^
 ||3dtanghua.com^
 ||uhhk.cricket^
-||34.213.94.108^
 ||myrxontime.com^
 ||bongacams.com^
 ||playstore-privilage.us^
 ||maparchltd.co.uk^
-||52.10.239.23^
 ||d-h.st^
 ||smartsupportconnect.com^
 ||giftcards4fans.com^
