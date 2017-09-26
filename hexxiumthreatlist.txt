@@ -8,6 +8,7 @@
 ! Version: 20170926
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||snitou.com^
 ||taxconsult.org.uk^
 ||seosboat.win^
 ||getgamekey.com^
