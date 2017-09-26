@@ -8,6 +8,10 @@
 ! Version: 20170926
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||itechpay.com^
+||ezyonlinesupport.com^
+||ezytechsupport.com^
+||serro908.azurewebsites.net^
 ||snitou.com^
 ||taxconsult.org.uk^
 ||seosboat.win^
