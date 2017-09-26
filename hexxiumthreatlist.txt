@@ -8,6 +8,8 @@
 ! Version: 20170926
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||taxconsult.org.uk^
+||seosboat.win^
 ||getgamekey.com^
 ||hf-la-68.s3.amazonaws.com^
 ||openbeta.weebly.com^
