@@ -8,6 +8,7 @@
 ! Version: 20170926
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||geminitechies.com^
 ||itechpay.com^
 ||ezyonlinesupport.com^
 ||ezytechsupport.com^
