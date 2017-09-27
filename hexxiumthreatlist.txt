@@ -5,9 +5,11 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20170926
+! Version: 20170927
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||coin-hive.com^
+||inclk.com^
 ||geminitechies.com^
 ||itechpay.com^
 ||ezyonlinesupport.com^
