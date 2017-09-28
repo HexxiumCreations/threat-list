@@ -5,9 +5,13 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20170927
+! Version: 20170928
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||nikeeus.com^
+||montblancauto.com^
+||replicawatchesbuy.org^
+||omegawatcheslove.com^
 ||coin-hive.com^
 ||inclk.com^
 ||geminitechies.com^
