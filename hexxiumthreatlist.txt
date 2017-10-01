@@ -8,6 +8,7 @@
 ! Version: 20171001
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||top-extra.xyz^
 ||vaigeneric.com^
 ||espanafarmacia.net^
 ||nikeeus.com^
