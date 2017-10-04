@@ -5,9 +5,10 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20171001
+! Version: 20171004
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||latestdatabase.com^
 ||top-extra.xyz^
 ||vaigeneric.com^
 ||espanafarmacia.net^
