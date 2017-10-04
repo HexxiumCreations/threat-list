@@ -8,6 +8,7 @@
 ! Version: 20171004
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||festivol.com^
 ||latestdatabase.com^
 ||top-extra.xyz^
 ||vaigeneric.com^
