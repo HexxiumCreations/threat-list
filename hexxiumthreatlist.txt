@@ -5,9 +5,16 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20171004
+! Version: 20171006
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||pushedwebnews.com^
+||onclkds.com^
+||padsdel.com^
+||credentialmanager.review^
+||critical-failure-alert0079.48mn19047307.kw15pdy8xzt4es2man.bid^
+||bestbestapp.com^
+||adafrut.com^
 ||oraink.com^
 ||festivol.com^
 ||latestdatabase.com^
