@@ -8,6 +8,7 @@
 ! Version: 20171010
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||voluumtrk.com^
 ||securesaferoute.com^
 ||localflirtbuddies.com^
 ||affairexcuses.com^
@@ -452,8 +453,7 @@
 ||no-i-in-frends.club^
 ||ggmil.com^
 ||center-com-4.xyz^
-||nkqgy.voluumtrk.com^
-||nkqgy.redirectvoluum.com^
+||redirectvoluum.com^
 ||prizesforbrands.com^
 ||1117b.com^
 ||88serversupport.com^
@@ -464,7 +464,7 @@
 ||win-true-rewards.com^
 ||retailpromousa.com^
 ||amarktflow.com^
-||www2.mdmexclusives.com^
+||mdmexclusives.com^
 ||freelotto.com^
 ||choicemobilephone.com^
 ||spectrum2.pch.com^
