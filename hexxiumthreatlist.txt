@@ -5,9 +5,12 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20171007
+! Version: 20171010
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||securesaferoute.com^
+||localflirtbuddies.com^
+||affairexcuses.com^
 ||inteledirect.com^
 ||giftcardclub.net^
 ||myrewardsgroup.com^
