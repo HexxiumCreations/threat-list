@@ -8,6 +8,9 @@
 ! Version: 20171019
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||blueangelhost.info^
+||blueangelhost.org^
+||blueangelhost.net^
 ||alinos.xyz^
 ||j.gs^
 ||get-youtube-subscribers.us^
