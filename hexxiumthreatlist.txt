@@ -8,6 +8,7 @@
 ! Version: 20171021
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||verifycaptcha.com^
 ||minecraftgifts.net^
 ||blueangelhost.info^
 ||blueangelhost.org^
