@@ -5,9 +5,10 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20171021
+! Version: 20171023
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||f-mobilevideo.blogspot.com^
 ||verifycaptcha.com^
 ||minecraftgifts.net^
 ||blueangelhost.info^
