@@ -5,9 +5,17 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20171023
+! Version: 20171025
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||peteetub.online^
+||flymobiworld.com^
+||dev-webs-store-free.site^
+||britonic.com^
+||bopstermedia56.com^
+||suitedgifts.loan
+||defa14.bid^
+||epicgamesfortnite.com^
 ||f-mobilevideo.blogspot.com^
 ||verifycaptcha.com^
 ||minecraftgifts.net^
