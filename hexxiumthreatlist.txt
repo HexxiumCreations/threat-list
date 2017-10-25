@@ -8,6 +8,7 @@
 ! Version: 20171025
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||fixincome.online^
 ||peteetub.online^
 ||flymobiworld.com^
 ||dev-webs-store-free.site^
