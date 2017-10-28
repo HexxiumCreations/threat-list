@@ -5,9 +5,22 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20171026
+! Version: 20171028
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||today-lucky-user.info^
+||partners.altervista.org^
+||findjobsinnewyork.altervista.org^
+||cheaphotels.freeforums.org^
+||newyorkdeals.000webhostapp.com^
+||newyorkdeals.createaforum.com^
+||movetocanadahappy.blogspot.com^
+||easytimes.unaux.com^
+||newyorkjobs.mybb.us^
+||freemoneymakingwebsite300.blogspot.com^
+||movies123.altervista.org^
+||mooyork.altervista.org^
+||bigmoney.icyboards.net^
 ||juioy.gq^
 ||rebrand.ly^
 ||lilwilldte.com^
