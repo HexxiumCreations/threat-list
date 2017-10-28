@@ -8,6 +8,7 @@
 ! Version: 20171028
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||fixmonthlyincome.com^
 ||today-lucky-user.info^
 ||partners.altervista.org^
 ||findjobsinnewyork.altervista.org^
