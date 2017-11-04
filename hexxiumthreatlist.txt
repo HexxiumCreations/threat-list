@@ -5,9 +5,11 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20171028
+! Version: 20171104
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||512hacks.com^
+||query-transmitted324-com.cf^
 ||fixmonthlyincome.com^
 ||today-lucky-user.info^
 ||partners.altervista.org^
