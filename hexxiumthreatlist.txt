@@ -8,6 +8,7 @@
 ! Version: 20171110
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||australianewzealandonline.net^
 ||win-ayuda-1628.s3.amazonaws.com^
 ||512hacks.com^
 ||query-transmitted324-com.cf^
