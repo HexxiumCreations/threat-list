@@ -5,9 +5,10 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20171110
+! Version: 20171111
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||sonyentertainmentnetworkcouk.000webhostapp.com^
 ||australianewzealandonline.net^
 ||win-ayuda-1628.s3.amazonaws.com^
 ||512hacks.com^
