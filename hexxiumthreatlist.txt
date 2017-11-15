@@ -8,6 +8,7 @@
 ! Version: 20171115
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||fortnitekey.ml^
 ||tryslimplusnow.com^
 ||chairkey.com^
 ||completesatisfactionline.com^
