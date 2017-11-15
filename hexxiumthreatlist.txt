@@ -5,9 +5,16 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20171114
+! Version: 20171115
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||tryslimplusnow.com^
+||chairkey.com^
+||completesatisfactionline.com^
+||fulfillmentgo.com^
+||buylaveaderm.com^
+||getmagnetique.com^
+||protonsurvey.com^
 ||dusckduckgo.com^
 ||sonyentertainmentnetworkcouk.000webhostapp.com^
 ||australianewzealandonline.net^
