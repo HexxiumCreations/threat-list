@@ -5,9 +5,72 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20171115
+! Version: 20171117
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||reportspanel.com^
+||bettersearchtools.com^
+||filmfanatic.com^
+||gamingwonderland.com^
+||firstgradeupgrading.review^
+||searchformsonline.com^
+||thesafeandalwaysready2upgrade.stream^
+||radiorage.com^
+||steamgifts.co^
+||genialfun.com^
+||steamwallethack.net^
+||microsoftwindowssupport.com^
+||giftcardsonline.info^
+||game-unleashed.com^
+||error948-contact-support.tk^
+||thepremiumappi35.com^
+||freegreatdnld169.download^
+||e93-apps.com^
+||pdsqopgtdiphyodont.review^
+||winmanager.today^
+||smallandprecise2upgradesnew.stream^
+||nationalredemptioncenter.club^
+||answeriqu.com^
+||teflonrepair.com^
+||thesoftwareroundtoupdateall.download^
+||allfreegoodsys2updates.stream^
+||freesoftwarestation.com^
+||getfreegiftcodes.com^
+||getsteamgifts.com^
+||giftcardgeneratorzone.com^
+||getsteambonus.com^
+||steamrepo.com^
+||idlesurvey.com^
+||dsjdbuydggd46rg7vd.xyz^
+||computer-qa44.stream^
+||newsup613111.tk^
+||system-1matt8.stream^
+||hyc9uc89y379yc78byc873.xyz^
+||1st.yt^
+||fortyhd.net^
+||zonamovie21.tk^
+||imovie07.xyz^
+||zonatop.tk^
+||moviexb.tk^
+||moviewan.com^
+||box-office.org^
+||streamzonamovie.tk^
+||soulmovie19.com^
+||moviiesworld.com^
+||moviexout.stream^
+||hdviooz.com^
+||circleservicesupgradenew.bid^
+||yice.pro^
+||greatfreeapps235.download^
+||broadsystemicupgradingall.trade^
+||steam-wallet.co^
+||fulltested.com^
+||freegiftcardgenrator.com^
+||giftcards-4you.com^
+||epickeys.com^
+||igiftcardsfree.com^
+||get-cracked.com^
+||mylnk.pw^
 ||webupdatenotifications.date^
 ||fortnitekey.ml^
 ||tryslimplusnow.com^
