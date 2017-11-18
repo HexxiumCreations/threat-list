@@ -5,7 +5,7 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20171117
+! Version: 20171118
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
 ||reportspanel.com^
@@ -136,7 +136,6 @@
 ||bestbestapp.com^
 ||adafrut.com^
 ||oraink.com^
-||festivol.com^
 ||latestdatabase.com^
 ||top-extra.xyz^
 ||vaigeneric.com^
