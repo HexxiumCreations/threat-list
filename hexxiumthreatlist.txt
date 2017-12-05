@@ -8,6 +8,7 @@
 ! Version: 20171205
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||minecraftblackfriday.tk^
 ||yourprizeisright.bid^
 ||bestapps4ever172.download^
 ||sonicskins.net^
