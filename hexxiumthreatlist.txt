@@ -28,7 +28,6 @@
 ||heresurvey.com^
 ||flightsearchapp.com^
 ||doyourprizes.racing^
-||yourprizeisright.bid^
 ||msnbillingupdate.com^
 ||supportmicrosoftoffice.com^
 ||getmyiphone.ga^
