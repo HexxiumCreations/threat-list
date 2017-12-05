@@ -5,9 +5,31 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20171129
+! Version: 20171205
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||yourprizeisright.bid^
+||bestapps4ever172.download^
+||sonicskins.net^
+||tryandupgradenew.bid^
+||stablegroundupgradegreat.bid^
+||yourtemplatefinder.com^
+||streamit-online.com^
+||grandforupdates.date^
+||atozmanuals.com^
+||everydaylookup.com^
+||properlyforupdatingalways.stream^
+||superappbox.com^
+||factoryconceptstown.com^
+||greatdownloadapps284.download^
+||firstgrade2upgrading.review^
+||todayswinnersclaim.club^
+||heresurvey.com^
+||flightsearchapp.com^
+||doyourprizes.racing^
+||yourprizeisright.bid^
+||msnbillingupdate.com^
+||supportmicrosoftoffice.com^
 ||getmyiphone.ga^
 ||hitechsoftservices.com^
 ||cdn4-traffic64-server4.top^
