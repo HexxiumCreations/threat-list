@@ -5,9 +5,10 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20171217
+! Version: 20171225
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||shafou.com^
 ||wpad.domain.name^
 ||playourplay.com^
 ||minecraftblackfriday.tk^
