@@ -5,9 +5,10 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20171231
+! Version: 20180103
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||csgotradewix.com^
 ||genf20.com^
 ||zikdrop.top^
 ||piaybattlegrounds.com^
