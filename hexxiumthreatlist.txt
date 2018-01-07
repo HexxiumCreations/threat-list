@@ -8,6 +8,7 @@
 ! Version: 20180107
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||t78.net^
 ||mingle-case.com^
 ||costco-com-2018.com^
 ||csgotradewix.com^
