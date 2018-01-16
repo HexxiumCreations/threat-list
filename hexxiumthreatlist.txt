@@ -5,9 +5,13 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180115
+! Version: 20180116
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||csgofinecase.com^
+||csgomagnatcase.com^
+||csgoflashcase.com^
+||csgobingocase.com^
 ||linstech.tk^
 ||mistskins.com^
 ||playerunknowncrates.tk^
