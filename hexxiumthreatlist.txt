@@ -5,9 +5,10 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180124
+! Version: 20180125
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||csgoguncase.com^
 ||fornitepacks.tk^
 ||ultra-drop.net^
 ||gaben-case.com^
