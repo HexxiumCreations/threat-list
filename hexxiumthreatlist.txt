@@ -8,6 +8,7 @@
 ! Version: 20180129
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||lnustech.tk^
 ||nice-skins.com^
 ||csgoguncase.com^
 ||fornitepacks.tk^
