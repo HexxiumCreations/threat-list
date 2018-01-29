@@ -8,6 +8,7 @@
 ! Version: 20180129
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||twitchgo.org^
 ||xbox360downloads.com^
 ||lnustech.tk^
 ||nice-skins.com^
