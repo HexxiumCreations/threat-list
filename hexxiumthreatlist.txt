@@ -271,7 +271,6 @@
 ||code-wizard.online^
 ||freegiftcards.store^
 ||gatewayonline.space^
-||rackcdn.com^
 ||freeppalmon.xyz^
 ||amazongiveaway.info^
 ||bigandsafeever4upgrading.site^
