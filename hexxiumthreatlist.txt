@@ -8,6 +8,7 @@
 ! Version: 20180202
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||youtubegifts.com^
 ||xelitexirish.com^
 ||twitchgo.org^
 ||xbox360downloads.com^
