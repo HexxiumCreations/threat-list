@@ -5,9 +5,10 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180129
+! Version: 20180202
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||xelitexirish.com^
 ||twitchgo.org^
 ||xbox360downloads.com^
 ||lnustech.tk^
