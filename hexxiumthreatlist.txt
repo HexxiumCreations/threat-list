@@ -8,6 +8,7 @@
 ! Version: 20180203
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||fifacoins18.com^
 ||ogurl.co^
 ||getfree4free.site^
 ||youtubegifts.com^
