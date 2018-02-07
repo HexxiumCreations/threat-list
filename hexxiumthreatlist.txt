@@ -5,9 +5,10 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180206
+! Version: 20180207
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||lucky-drop.net^
 ||nbcnews.io^
 ||speedyco.in^
 ||instabang.com^
