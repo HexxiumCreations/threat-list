@@ -8,6 +8,7 @@
 ! Version: 20180214
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||fortniteupgrade.tk^
 ||this-century.tk^
 ||snow-case.net^
 ||btg-claim.com^
