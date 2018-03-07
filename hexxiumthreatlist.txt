@@ -5,9 +5,51 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180303
+! Version: 20180307
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||thebroad4upgradesbuddy.stream^
+||epiccodes.com^
+||call-mlcrosoftnw-err92789307.win^
+||risk-77ta7.stream^
+||admeerkat.com^
+||softwarecentraldownload.com^
+||search-privacy.live^
+||error-0hung6.stream^
+||19jan-update13.azurewebsites.net^
+||getunzipper.com^
+||mixplugin.com^
+||thebigcenterforcontentsload.review^
+||issue-sy70.stream^
+||thegreatcentercontentsafeclear.date^
+||movie-quest.online^
+||fnsqnpyxides.review^
+||thebiggestcenter4content.bid^
+||bitdrop.top^
+||opinionpoll2017.com^
+||proofgenerator.bid^
+||supercheats.org^
+||epizy.com^
+||codesoffer.club^
+||codepro.me^
+||freepplmoney.win^
+||cardsmash.club^
+||theresearchpolls.com^
+||maxgenerator.racing^
+||nlskins.com^
+||freeamazongiftcardsnow.com^
+||catafiles.com^
+||getpremiumstuff.com^
+||amazon-gift.ga2h.com^
+||gift-code.xyz^
+||yotefiles.com^
+||freepmoney.com^
+||p3speed.com^
+||allcodehere.us^
+||giftcard.ltd^
+||teamcode.biz^
+||findcoder.pw^
+||getcodehere.com^
 ||a647dbrbqs.tumblr.com^
 ||darkwebpage.eu^
 ||fortnitegifts.win^
