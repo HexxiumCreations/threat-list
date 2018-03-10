@@ -8,6 +8,7 @@
 ! Version: 20180310
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||game-reward.com^
 ||csgogabencase.com^
 ||ratingcase.com^
 ||csgobigcase.com^
