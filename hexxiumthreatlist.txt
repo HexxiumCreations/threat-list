@@ -5,9 +5,12 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180310
+! Version: 20180312
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||congratulations.co-j26.bid^
+||loggin-supp0rtdataacount.com^
+||4.pn^
 ||game-reward.com^
 ||csgogabencase.com^
 ||ratingcase.com^
