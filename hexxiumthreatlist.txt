@@ -5,9 +5,11 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180312
+! Version: 20180314
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||humanverify.net^
+||aminogiifts.ga^
 ||congratulations.co-j26.bid^
 ||loggin-supp0rtdataacount.com^
 ||4.pn/6l?QDAWTVWTBR^
