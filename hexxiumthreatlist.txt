@@ -5,9 +5,10 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180315
+! Version: 20180316
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||giftcardsfree.net^
 ||fortnitevbucks.vip^
 ||humanverify.net^
 ||aminogiifts.ga^
