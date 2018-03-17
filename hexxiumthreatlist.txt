@@ -5,9 +5,15 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180316
+! Version: 20180317
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||exampassok.com^
+||ebookrich.com^
+||wnzvrqryvirelv.com^
+||medialeep.com^
+||jamzoom.com^
+||hermanganzorig.firebaseapp.com^
 ||giftcardsfree.net^
 ||fortnitevbucks.vip^
 ||humanverify.net^
