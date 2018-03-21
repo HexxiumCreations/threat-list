@@ -5,9 +5,10 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180317
+! Version: 20180321
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||fortnite-vbucks.net^
 ||exampassok.com^
 ||ebookrich.com^
 ||wnzvrqryvirelv.com^
