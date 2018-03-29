@@ -5,9 +5,10 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180324
+! Version: 20180329
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||ui16d56vitu.tumblr.com^
 ||vk.cc^
 ||ethers.gift^
 ||fortnite-vbucks.net^
