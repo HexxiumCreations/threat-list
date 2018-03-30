@@ -8,6 +8,7 @@
 ! Version: 20180330
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||v-bucksgenerator.online^
 ||gamer-evolution-tools.live^
 ||gamer-evolution.com^
 ||trickempire.com^
