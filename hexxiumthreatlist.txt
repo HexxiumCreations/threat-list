@@ -5,9 +5,11 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180330
+! Version: 20180331
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||yac.mx^
+||ethergot.com^
 ||glasses-day.com^
 ||v-bucksgenerator.online^
 ||gamer-evolution-tools.live^
