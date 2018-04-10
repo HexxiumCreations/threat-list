@@ -5,9 +5,13 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180404
+! Version: 20180410
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||narcosxxx.com^
+||irtyf.com^
+||adhoc2.net^
+||nutaku.net^
 ||cpmstatsart^
 ||backdoorsecuritypro.world^
 ||technical-errors.ga^
