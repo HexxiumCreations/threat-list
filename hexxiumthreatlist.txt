@@ -5,16 +5,16 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180428
+! Version: 20180430
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||petrotechnoqatar.com^
 ||hhd4zods.com^
 ||skincjar.net^
 ||fortnite-giveaways.com^
 ||narcosxxx.com^
 ||irtyf.com^
 ||adhoc2.net^
-||nutaku.net^
 ||cpmstatsart^
 ||backdoorsecuritypro.world^
 ||technical-errors.ga^
