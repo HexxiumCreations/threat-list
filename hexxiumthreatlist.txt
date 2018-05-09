@@ -5,9 +5,11 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180430
+! Version: 20180509
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||viprbonlineshop.com^
+||wanderinsel.org^
 ||petrotechnoqatar.com^
 ||hhd4zods.com^
 ||skincjar.net^
