@@ -8,6 +8,8 @@
 ! Version: 20180509
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||searchdimension.com^
+||tribution.mobi^
 ||viprbonlineshop.com^
 ||wanderinsel.org^
 ||petrotechnoqatar.com^
