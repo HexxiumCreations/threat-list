@@ -8,6 +8,7 @@
 ! Version: 20180514
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||247onlinerescue.com^
 ||twittergifts.com^
 ||dailyvbucks.com^
 ||searchdimension.com^
