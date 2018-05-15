@@ -5,9 +5,21 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180514
+! Version: 20180515
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||getcashforapps.com^
+||ssb8.app.link^
+||fortnitehacked.org^
+||pranaholistico-antigua.com^
+||vbucksbooster.com^
+||cbldc.io^
+||freetool.club^
+||gamehints.site^
+||fortnitehacking.net^
+||elitegaminghacks.com^
+||vibux.win^
+||fortniteupgrade.com^
 ||247onlinerescue.com^
 ||twittergifts.com^
 ||dailyvbucks.com^
