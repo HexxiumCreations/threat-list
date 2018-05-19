@@ -5,9 +5,34 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180515
+! Version: 20180518
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||click4skin.com^
+||steam-community.com^
+||tf2markets.com^
+||steamtender.com^
+||easy-skins24.com^
+||pubgzoner.com^
+||wtfskins.be^
+||csmoney-case.su^
+||csmoney-case.net^
+||bitskins.es^
+||skinsride.com^
+||skinsblaze.com^
+||lootfarm.org^
+||opencasewin.com^
+||infoskins.net^
+||rampageskins.com^
+||giftfree.win^
+||icodes.site^
+||steamgiftcardfree.pw^
+||steamkeygiveaway.com^
+||fantasygiftcode.com^
+||nowadays.co^
+||apkmod2.com^
+||activecode.xyz^
+||cdkeyplay.com^
 ||getcashforapps.com^
 ||ssb8.app.link^
 ||fortnitehacked.org^
