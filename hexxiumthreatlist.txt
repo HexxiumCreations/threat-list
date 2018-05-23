@@ -5,9 +5,11 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180515
+! Version: 20180523
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||formoneyonly.com^
+||startjob.online^
 ||getcashforapps.com^
 ||ssb8.app.link^
 ||fortnitehacked.org^
