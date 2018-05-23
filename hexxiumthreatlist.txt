@@ -9,7 +9,6 @@
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
 ||click4skin.com^
-||steam-community.com^
 ||tf2markets.com^
 ||steamtender.com^
 ||easy-skins24.com^
