@@ -8,6 +8,12 @@
 ! Version: 20180524
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||just-bets.com^
+||tf2top.com^
+||tf2shuffle.com^
+||domoshow.top^
+||tf2krew.com^
+||skinstate.com^
 ||ideletedtweets.blogspot.co.uk^
 ||click4skin.com^
 ||tf2markets.com^
