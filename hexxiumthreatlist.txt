@@ -5,9 +5,11 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180524
+! Version: 20180525
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||t740.pt12kjov.com
+||la33.xs5q0d26.com^
 ||ideletedtweets.blogspot.co.uk^
 ||click4skin.com^
 ||tf2markets.com^
