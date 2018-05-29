@@ -5,9 +5,12 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180525
+! Version: 20180528
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||stable-case.com^
+||hd-is.com^
+||mobile-cb.com^
 ||just-bets.com^
 ||tf2top.com^
 ||tf2shuffle.com^
