@@ -5,9 +5,10 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180613
+! Version: 20180616
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||zen.yandex.ru/media/id/5b23e1c6bad70500a927819d^
 ||openskinswins.com^
 ||ten-our-prize99.loan^
 ||9t8t.ejsqucee.com^
