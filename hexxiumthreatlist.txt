@@ -5,9 +5,21 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180616
+! Version: 20180620
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||thriftectype.review^
+||winfarm.top^
+||csgogunbet.com^
+||csgomonies.com^
+||cine-play.co^
+||csgolitegun.com^
+||wehindreson87.club^
+||bethea-astrology.com^
+||czeikylgtopless.review^
+||o2018.pro^
+||tfmoney-case.su^
+||elon-gives.com^
 ||openskinswins.com^
 ||ten-our-prize99.loan^
 ||9t8t.ejsqucee.com^
