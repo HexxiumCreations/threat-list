@@ -5,9 +5,18 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180620
+! Version: 20180625
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||etherium.my-board.org^
+||eth.fanclub.rocks^
+||giveaway.surge.sh^
+||crypto-prize.com^
+||btcfast.io^
+||000eth.io^
+||officialgiveaway.org^
+||ethereum-event.com^
+||newsair.info^
 ||thriftectype.review^
 ||winfarm.top^
 ||csgogunbet.com^
