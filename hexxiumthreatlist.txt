@@ -5,9 +5,13 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180625
+! Version: 20180626
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||bitballon.com^
+||7ky73hoetj.pw^
+||dealclicks.us^
+||listenriotous.review^
 ||etherium.my-board.org^
 ||eth.fanclub.rocks^
 ||giveaway.surge.sh^
