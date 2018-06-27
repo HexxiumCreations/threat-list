@@ -5,9 +5,10 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180626
+! Version: 20180627
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||giftforsubs.xyz^
 ||bitballon.com^
 ||7ky73hoetj.pw^
 ||dealclicks.us^
