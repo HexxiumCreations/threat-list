@@ -8,6 +8,18 @@
 ! Version: 20180627
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||how2find.stream^
+||movieloving.com^
+||daffaflix.com^
+||greatmovies.xyz^
+||cinemaoi.com^
+||siduru.net^
+||moviezu.com^
+||oryweb.com^
+||codesgenerator.science^
+||yrlasvwhatso.download^
+||org-appstore.site^
+||steamconnunuly.com^
 ||giftforsubs.xyz^
 ||bitballon.com^
 ||7ky73hoetj.pw^
