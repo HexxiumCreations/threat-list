@@ -8,6 +8,8 @@
 ! Version: 20180704
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||musk-shares.blogspot.com^
+||elon-gift.com^
 ||betfarm.top^
 ||stelfarm.top^
 ||dropnice.top^
