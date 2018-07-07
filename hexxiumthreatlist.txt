@@ -8,6 +8,7 @@
 ! Version: 20180707
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||skin-drop.org^
 ||musk-gifts.blogspot.com^
 ||ethofficial.net^
 ||musk-shares.blogspot.com^
