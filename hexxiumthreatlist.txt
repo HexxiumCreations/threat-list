@@ -5,9 +5,24 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180707
+! Version: 20180708
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||claimeth.net^
+||eth-safe.net^
+||claim-btc.org^
+||1xbetdota2.com^
+||shelbybet.com^
+||wandtrade.com^
+||skinsraise.com^
+||skinsripper.com^
+||steamcommunuty.net^
+||tf2cash.com^
+||montydrop.com^
+||bountybets.com^
+||dropcase.su^
+||lootdrop.su^
+||csfastdrop.com^
 ||skin-drop.org^
 ||musk-gifts.blogspot.com^
 ||ethofficial.net^
