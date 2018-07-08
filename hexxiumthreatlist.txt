@@ -8,6 +8,9 @@
 ! Version: 20180708
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||claimeth.net^
+||eth-safe.net^
+||claim-btc.org^
 ||1xbetdota2.com^
 ||shelbybet.com^
 ||wandtrade.com^
