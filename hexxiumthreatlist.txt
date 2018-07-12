@@ -8,6 +8,15 @@
 ! Version: 20180712
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||ethbig.club^
+||btcbig.club^
+||crsafepay.com^
+||etherpromo.io^
+||trongifts.network^
+||etherbonus.win^
+||btcbonus.win^
+||btcpromo.win^
+||ethereumpromo.win^
 ||ethpromotion.info^
 ||medium.gift^
 ||elon-fun.blogspot.com^
