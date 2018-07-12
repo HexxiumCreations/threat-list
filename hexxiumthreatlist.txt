@@ -5,9 +5,13 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180709
+! Version: 20180712
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||ethpromotion.info^
+||medium.gift^
+||elon-fun.blogspot.com^
+||elon-surprise.blogspot.com^
 ||elonmusk-official-giveaway.tumblr.com^
 ||claimeth.net^
 ||eth-safe.net^
