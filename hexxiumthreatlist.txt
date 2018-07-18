@@ -5,9 +5,12 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180712
+! Version: 20180718
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||musk-prize.blogspot.com^
+||musk-official-giveaway.com^
+||dgbest.win^
 ||ethbig.club^
 ||btcbig.club^
 ||crsafepay.com^
