@@ -8,6 +8,21 @@
 ! Version: 20180718
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||skinspump.com^
+||csgoany.com^
+||bountycool.com^
+||elegentdrop.com^
+||realstarbet.com^
+||getluck.top^
+||nicedrop.top^
+||info-skins.net^
+||tf2night.com^
+||auth-k0tk.com^
+||skinswiz.com^
+||decentskins.com^
+||luckfarm.top^
+||spadrop.top^
+||ggdrop.top^
 ||musk-prize.blogspot.com^
 ||musk-official-giveaway.com^
 ||dgbest.win^
