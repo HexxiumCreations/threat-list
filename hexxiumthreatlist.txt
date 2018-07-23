@@ -7,6 +7,7 @@
 ! (YYYY/MM/DD)
 ! Version: 20180723
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
+! We recommend you to use Ublock Origin with this list added to it rather than other adblock products.
 !
 ||safecrypt.net^
 ||ethergiftnow.net^
