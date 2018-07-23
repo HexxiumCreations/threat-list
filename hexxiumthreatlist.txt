@@ -8,6 +8,7 @@
 ! (YYYY/MM/DD)
 ! Version: 2018072302
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
+! WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
 ||safecrypt.net^
