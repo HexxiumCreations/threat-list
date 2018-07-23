@@ -5,9 +5,27 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180718
+! Version: 20180723
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
+! We recommend you to use Ublock Origin with this list added to it rather than other adblock products.
 !
+||safecrypt.net^
+||ethergiftnow.net^
+||skinspump.com^
+||csgoany.com^
+||bountycool.com^
+||elegentdrop.com^
+||realstarbet.com^
+||getluck.top^
+||nicedrop.top^
+||info-skins.net^
+||tf2night.com^
+||auth-k0tk.com^
+||skinswiz.com^
+||decentskins.com^
+||luckfarm.top^
+||spadrop.top^
+||ggdrop.top^
 ||musk-prize.blogspot.com^
 ||musk-official-giveaway.com^
 ||dgbest.win^
