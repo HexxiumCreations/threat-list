@@ -1,14 +1,22 @@
 [Adblock Plus 2.0]
 ! Homepage: https://hexxiumcreations.github.io/threat-list/
+! Contribute: https://www.hexxiumcreations.com/report-malicious-domains-and-ips/
 ! Website: https://www.hexxiumcreations.com/projects/malicious-domain-blocking/
 ! Title: Hexxium Creations Threat List
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180723
+! Version: 20180728
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
-! We recommend you to use Ublock Origin with this list added to it rather than other adblock products.
+! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||mrnagr918.club^
+||musk-official-promo.com^
+||musk-present.blogspot.com^
+||ettereum.info^
+||eth.kissr.com^
+||elon-musk.me^
+||winplatform.io^
 ||safecrypt.net^
 ||ethergiftnow.net^
 ||skinspump.com^
