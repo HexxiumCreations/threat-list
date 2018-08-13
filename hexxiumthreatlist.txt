@@ -6,11 +6,12 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180811
+! Version: 20180813
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
-|trade-skins.net^
+||myetherget.info^
+||trade-skins.net^
 ||skinszone.net^
 ||tf2smart.com^
 ||tappydrop.com^
@@ -21,8 +22,8 @@
 ||skinsrun.com^
 ||steamcomnumulu.com^
 ||smercy.ru^
-|csgolden.site^
-|csgotrain.ru^
+||csgolden.site^
+||csgotrain.ru^
 ||csgowallet.ru^
 ||skinsbless.com^
 ||tf2fact.com^
