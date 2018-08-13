@@ -6,10 +6,42 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180804
+! Version: 20180813
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||myetherget.info^
+||trade-skins.net^
+||skinszone.net^
+||tf2smart.com^
+||tappydrop.com^
+||skinsbless.com^
+||tf2crown.com^
+||tf2winner.com^
+||tf2wild.com^
+||skinsrun.com^
+||steamcomnumulu.com^
+||smercy.ru^
+||csgolden.site^
+||csgotrain.ru^
+||csgowallet.ru^
+||skinsbless.com^
+||tf2fact.com^
+||lootlfarm.com^
+||info-steam.net^
+||idrop.top^
+||tf2red.com^
+||rltrades.tk^
+||flameroll.com^
+||csgomagic.top^
+||csgospells.com^
+||aqua-skins.pro^
+||rocketleagueinventories.com^
+||rltrades.me^
+||checkskins.online^
+||rocket-prices.com^
+||skinmoon.ru^
+||csgonv.top^
 ||elon-giveaway.org^
 ||mrnagr918.club^
 ||musk-official-promo.com^
