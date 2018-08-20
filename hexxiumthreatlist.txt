@@ -6,10 +6,16 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180815
+! Version: 20180820
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||hemakeshappy.com^
+||casinomoons.com^
+||d14bvk55lekxdw.cloudfront.net^
+||apping-perfunky.com^
+||abeswaterfront.com^
+||whatthetrack.com^
 ||lootjfarm.pw^
 ||sloopenarishanik.xyz^
 ||efsjdomongowalo.xyz^
@@ -24,7 +30,6 @@
 ||skinszone.net^
 ||tf2smart.com^
 ||tappydrop.com^
-||skinsbless.com^
 ||tf2crown.com^
 ||tf2winner.com^
 ||tf2wild.com^
