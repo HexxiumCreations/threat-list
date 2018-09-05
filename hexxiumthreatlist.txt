@@ -6,10 +6,15 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180826
+! Version: 20180905
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||creditscheat.com^
+||discountbape.com^
+||musk-surprise.info^
+||tesla-giveaways.org^
+||elonmusk.team^
 ||always-dealsx24.blogspot.com^
 ||crypto-gifts.ml^
 ||kutt.it/2Rkps7^
