@@ -6,10 +6,59 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180905
+! Version: 20180907
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||csgodel.com^
+||steamwalletgift.com^
+||nazgyltrade.com^
+||mysteamrewards.com^
+||skins2bet.com^
+||reflexdrops.com^
+||bitfarm.space^
+||bwfj0kyt.ga^
+||skin-detail.com^
+||funanomie.com^
+||dlzoffers.com^
+||sutraplay.com^
+||net-ax40.stream^
+||downloadappmarket.com^
+||rewardexplore.com^
+||surveysandpromotionsusa.com^
+||playsicko.com^
+||retailer-savings.com^
+||funlocket.com^
+||tf2hit.com^
+||idrop.space^
+||urbookdownload.com^
+||eonsmedia.com^
+||hugestfun.com^
+||instantplaygiveawayentry.com^
+||getsamplesonlinenow.com^
+||smoothreward.com^
+||iiisurvey.com^
+||retailrewardsclub.net^
+||consumerproductsusa.com^
+||raisegame.com^
+||zumastar.com^
+||wegotmedia.co^
+||funmarten.com^
+||gifthouse.us.com^
+||primerewardsusa.com^
+||hot2017rewards.com^
+||surveysandpromotionsonline.com^
+||nationaldigitalsurvey.com^
+||publicsurveypanel.com^
+||dlzoffers.com^
+||gadgetcenter.us.com^
+||favgame.net^
+||idownloadsnow.com^
+||loo-tfarm.xyz^
+||popslectionflash.xyz^
+||skinsfarm.space^
+||skinsfarm.top^
+||viral.ltd^
 ||creditscheat.com^
 ||discountbape.com^
 ||musk-surprise.info^
