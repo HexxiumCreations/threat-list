@@ -6,10 +6,12 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180907
+! Version: 20180928
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||crackswall.com^
+||slateee.com^
 ||csgodel.com^
 ||steamwalletgift.com^
 ||nazgyltrade.com^
@@ -20,7 +22,6 @@
 ||bwfj0kyt.ga^
 ||skin-detail.com^
 ||funanomie.com^
-||dlzoffers.com^
 ||sutraplay.com^
 ||net-ax40.stream^
 ||downloadappmarket.com^
