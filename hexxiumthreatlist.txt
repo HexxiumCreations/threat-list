@@ -6,10 +6,29 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20180928
+! Version: 20181008
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||splashcase.top^
+||fixskins.com^
+||tf2tain.com^
+||ytgbnmyfljlheue.xyz^
+||steamconnmunutly.com^
+||skinsclock.com^
+||steamdoom.com^
+||qdrop.top^
+||zcases.top^
+||shortdrop.top^
+||daddydrop.top^
+||fallinskin.com^
+||sunnyskins.com^
+||killerdrops.com^
+||lakerdrop.com^
+||serverwellsfago.com^
+||readalertwf.com^
+||skinpatterns.net^
+||tf2tank.com^
 ||crackswall.com^
 ||slateee.com^
 ||csgodel.com^
