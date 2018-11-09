@@ -6,10 +6,55 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20181010
+! Version: 20181109
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||anonymoustool.com^
+||mygiftcard.online^
+||swiftlet.pro^
+||myplaycode.us^
+||gamecheatskip.com^
+||derpy.online^
+||giftoffer.pw^
+||giftcardoffers.club^
+||instagramgifts.com^
+||greatworks.club^
+||ggem.co^
+||freepyp.win^
+||giftcards-kings.com^
+||avonee.com^
+||onlinegen.club^
+||mytrickstips.com^
+||getfreecards.online^
+||freecode.site^
+||sweepstakesgroup.com^
+||skinsflex.com^
+||krakendrop.top^
+||csgozones.net^
+||tf2.ninja^
+||leyvadestgreen.tk^
+||giddyskins.com^
+||opinionshareresearch.com^
+||benhtieudem.com.vn^
+||youploan.com^
+||go.net-dj97.stream^
+||portalbenefit.com^
+||viaprio.com^
+||customersurveygroup.com^
+||tf2call.com^
+||dacases.org^
+||da-cases.com^
+||tf2lod.com^
+||tf2vogue.com^
+||dota2brown.com^
+||cspay.cash^
+||owpzmcidefrayed.review^
+||dczjncbtjg6ye.cloudfront.net^
+||winfreesupport.club^
+||tf2skull.com^
+||sweepstakesbucks.com^
+||getitfreesamples.net^
 ||airdrop-event.com^
 ||elon-shares.com^
 ||xn--mn8hzgsi.ml^
