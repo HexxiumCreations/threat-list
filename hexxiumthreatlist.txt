@@ -6,10 +6,24 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20181109
+! Version: 20181123
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||steamdesktopauthenticator.com^
+||tf2dragon.com^
+||tf2play.com^
+||tradezone.gg^
+||csgofrogman.pro^
+||bitdrop.life^
+||tf2krown.com^
+||tf2next.com^
+||cybertournaments.net^
+||csgoaziimov.com^
+||gamerxskin.com^
+||csgo-aziimov.blogspot.com^
+||item-steam.net^
+||magicxcsgo.com^
 ||anonymoustool.com^
 ||mygiftcard.online^
 ||swiftlet.pro^
