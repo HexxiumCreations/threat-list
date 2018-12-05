@@ -10,6 +10,8 @@
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||adultmmogame.com^
+||seneporno.com^
 ||tesla-crypto.info^
 ||elon-tesla.tech^
 ||spacex.gives^
