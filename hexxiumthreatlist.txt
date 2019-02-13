@@ -6,10 +6,33 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20190203
+! Version: 20190211
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||csgo-emerald.com^
+||turbodrop.life^
+||warsstory.com^
+||csgoninja.fun^
+||xbest-dream.com^
+||vidko1.blogspot.com^
+||skinxinfo.net^
+||viomars.com^
+||eatingrightforlife.com^
+||force-xdrop.com^
+||tf2millenium.com^
+||tf2premium.com^
+||stemmcommuniti.ml^
+||cebuled.com^
+||black-roulette.tk^
+||csmoney-trader.pw^
+||csgo-fire.pro^
+||jesusdrop.life^
+||washfarm.life^
+||awakenfeedback.com^
+||usoptomat.com^
+||cssmoniyy3.world^
+||xloot-mafia.fun^
 ||edua29146y.com^
 ||steamity.com^
 ||steamcodegenerator.xyz^
