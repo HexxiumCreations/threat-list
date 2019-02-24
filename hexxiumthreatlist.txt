@@ -6,10 +6,25 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20190211
+! Version: 20190223
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||windatgamex.com^
+||spindatgamex.com^
+||pzhfarm.life^
+||full-episode.stream^
+||bip-tv.stream^
+||ucmotvie.com^
+||fly-tv.stream^
+||csmoney.fund^
+||cszmon1ey21.gq^
+||wftskin.com^
+||bestskins.su^
+||christmasskin.fun^
+||zphfarm.life^
+||tf2legendary.com^
+||geselecteerde-winnaar.nl^
 ||csgo-emerald.com^
 ||turbodrop.life^
 ||warsstory.com^
