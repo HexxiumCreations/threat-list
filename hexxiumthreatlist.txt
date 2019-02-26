@@ -6,10 +6,14 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20190223
+! Version: 20190226
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||skinsfan.sf^
+||cslounge.eu^
+||skinsfan.pw^
+||skinsfan.tk^
 ||windatgamex.com^
 ||spindatgamex.com^
 ||pzhfarm.life^
