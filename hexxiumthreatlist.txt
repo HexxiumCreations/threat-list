@@ -6,10 +6,18 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20190227
+! Version: 20190318
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||xg4me.com^
+||exauth.fun^
+||csgoalcove.fun^
+||royalboxes.site^
+||mybetsgames.com^
+||wttskins.com^
+||spinthatgame.com^
+||tf2rolling.com^
 ||mediumgroup.tech^
 ||skinsfan.sf^
 ||cslounge.eu^
