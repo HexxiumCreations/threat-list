@@ -6,10 +6,49 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20190318
+! Version: 20190403
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||gamexroulette.com^
+||blaserdrop.com^
+||xdrop-money.com^
+||4kmoviesclub.com^
+||tf2plazaa.com^
+||randomitemx.com^
+||tf2prime.com^
+||freeresources2019.tk^
+||questionon.com^
+||free10k-vbucks.icu^
+||gameshackcode.us^
+||mycodes.pw^
+||fortnite-vbucksgenerator.us^
+||fortnitevbuckshack.services^
+||fortnitefreevbucks.pw^
+||codefinder.host^
+||freegiftcardcode.win^
+||mediafire.com/file/anxnc5t8v1rr4es/Amazon+Gift+Card+Generator+%28password+is+amazon%29.zip^
+||freegiftcardcode.gq^
+||cpbldi.com^
+||monster4level.000webhostapp.com^
+||xecode.host^
+||maxcode.live^
+||freshcardus.xyz^
+||rscode.site^
+||freeworkingcodes.com^
+||opaldownloads.com^
+||mypromos.xyz^
+||codegp.pw^
+||getscode.bid^
+||freecode.online^
+||agift.info^
+||fxcode.site^
+||silvertopage.ru^
+||getcodes.live^
+||chimes-dropx.com^
+||csgonosense.fun^
+||droping.fun^
+||csgobasic.online^
 ||xg4me.com^
 ||exauth.fun^
 ||csgoalcove.fun^
