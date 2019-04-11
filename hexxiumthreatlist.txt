@@ -6,10 +6,19 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20190403
+! Version: 20190411
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||csgobrick.fun^
+||lullaby-dropx.com^
+||ginapay.com^
+||ong4me.com^
+||vidko11.blogspot.com^
+||mercy-dropx.com^
+||tf2tools.market^
+||skinschance.com^
+||kelpmedia.com^
 ||gamexroulette.com^
 ||blaserdrop.com^
 ||xdrop-money.com^
