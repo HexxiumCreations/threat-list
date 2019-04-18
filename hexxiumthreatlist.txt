@@ -6,10 +6,63 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20190411
+! Version: 20190418
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||skins-xmap.com^
+||bib-7.fun^
+||golddrop.life^
+||dropxmax.com^
+||csgoshark.xyz^
+||boxmoney.fun^
+||itemscosts.com^
+||tf2tradeit.com^
+||tf2price.fun^
+||iteminfos.com^
+||tf2price.net^
+||csgopanelx.com^
+||cspatterns.com^
+||csgomak.com^
+||spacewincase.com^
+||bestgameit.com^
+||dota2-c.info^
+||steamoffescommunity.info^
+||joingameit.com^
+||gameflip.gr.com^
+||csgotrademarket.cf^
+||skinreward.com^
+||lion-case.com^
+||csgopulpy.com^
+||tdrop.me^
+||starlinecsgo.ml^
+||proleaguedota.com^
+||ebeatpro.com^
+||csgo-lucks.com^
+||csgo-lucks.site^
+||rizedrop.com^
+||grandskin.space^
+||csgo-swapskin.com^
+||keysmix.site^
+||skingame.info^
+||dota2mid.site^
+||bit-signin.info^
+||dota2-legends.site^
+||mindcase.pro^
+||betatse.com^
+||csgo-lore.info^
+||hell-cases.com^
+||gamestuff.pro^
+||csgotrader.fun^
+||x15skins.com^
+||steamindex.me^
+||csgopfunny.pro^
+||skin-boost.pro^
+||dropxmonsters.com^
+||flesh-box.fun^
+||dawnskin.com^
+||eternityskins.com^
+||giveawayitem.com^
 ||csgobrick.fun^
 ||lullaby-dropx.com^
 ||ginapay.com^
