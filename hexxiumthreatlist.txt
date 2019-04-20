@@ -6,10 +6,36 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20190418
+! Version: 20190420
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||csgogummi.com^
+||gamedrop.fun^
+||incredible-dropx.com^
+||bitstant.io^
+||datgamexhub.com^
+||free1game.com^
+||freezgames.com^
+||yourgamexhub.com^
+||freeoxgames.com^
+||daxgameroulette.com^
+||gamesbundlex.com^
+||spindagame.com^
+||xloott.info^
+||dagamehubx.com^
+||rolldagame.com^
+||rolldagames.com^
+||takedaxgames.com^
+||exgames.online^
+||daxgamesbundle.com^
+||gamez4.online^
+||skin-get.fun^
+||freegamesoz.com^
+||melloskin.ru^
+||datgamex.com^
+||lsmeeeeee.blogspot.com^
+||spacerolls.com^
 ||skins-xmap.com^
 ||bib-7.fun^
 ||golddrop.life^
