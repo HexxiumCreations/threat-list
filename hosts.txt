@@ -1,6 +1,6 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 05/03/2019
-# Date of Threat-list update (mm/dd/yyyy): 05/03/2019
+# Last Hosts Update (mm/dd/yyyy): 05/05/2019
+# Date of Threat-list update (mm/dd/yyyy): 05/05/2019
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
 0.0.0.0 bestlifehere8.life
@@ -990,7 +990,6 @@
 0.0.0.0 mooyork.altervista.org
 0.0.0.0 bigmoney.icyboards.net
 0.0.0.0 juioy.gq
-0.0.0.0 rebrand.ly
 0.0.0.0 lilwilldte.com
 0.0.0.0 fixincome.online
 0.0.0.0 peteetub.online
