@@ -6,10 +6,51 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20190505
+! Version: 20190601
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||railsbait.com^
+||railvbait.com^
+||download-stream.com^
+||onlinepromotionsusa.com^
+||disgamerollx.com^
+||csgomagic.co^
+||tf2win.com^
+||exx-skins.com^
+||csgoben.com^
+||dota2-pudge.site^
+||spacebabetay.info^
+||wavescase.com^
+||mediazide.com^
+||onlinefit.co^
+||goxdrop.com^
+||rafflegiveaway.com^
+||bestcases.life^
+||goupskins.com^
+||forceskins.com^
+||skinshall.com^
+||exclusive-gold.com^
+||dota2prime.com^
+||high-skins.com^
+||exclusive-farm.com^
+||roflbets.com^
+||probethub.com^
+||winchroll.com^
+||focusbets.com^
+||steamstark.com^
+||dota2sat.com^
+||agency-roulette.com^
+||skinstun.com^
+||dota2fox.com^
+||movie-streams-online.com^
+||socialbits.com.br^
+||xrollsdatgame.com^
+||tf2phoenix.com^
+||tradeskinnow.com^
+||runitem.com^
+||oldgameit.com^
+||tf2swift.com^
 ||bestlifehere8.life^
 ||staemcorrmunitu.com^
 ||765629637995169.space^
