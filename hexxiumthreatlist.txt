@@ -5,10 +5,51 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20190602
+! Version: 20190609
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||kmspico10.org^
+||kmspicoffice.com^
+||kmspico4u.com^
+||birdplanes.xyz^
+||allmods.club^
+||giftcod.info^
+||uscode.info^
+||yadakjoo.com^
+||skinfn.com^
+||buckfort.me^
+||hostedfiles.net^
+||u-coin.club^
+||tf2bloom.com^
+||csgodear.com^
+||tf2nebula.com^
+||tf2success.com^
+||csgoalliance.com^
+||79.174.12.165^
+||tf2-jackpot.com^
+||dota2-arena.com^
+||dota2loot.net^
+||tf2net.com^
+||rustback.com^
+||rustnew.com^
+||rustkrew.com^
+||rustmiss.com^
+||dota-wtf.online^
+||killcsgo.site^
+||csgoroyalty.com^
+||tf2rich.com^
+||csgomelo.com^
+||tf2splendor.com^
+||tf2roul.com^
+||tf2aqua.com^
+||tf2mann.com^
+||tf2bowl.com^
+||tf2energy.com^
+||tf2charged.com^
+||tf2forest.com^
+||tf2safari.com^
+||tf2brilliant.com^
 ||windatgamex.com^
 ||spindatgamex.com^
 ||steamcodegenerator.xyz^
