@@ -5,10 +5,49 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20190609
+! Version: 20190616
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||tf2zone.com^
+||itemsrate.com^
+||tf2sell.site^
+||tf2sell.com^
+||wtflife21.life^
+||goodrop.cf^
+||pubg-drop.ru^
+||drop-pubg.xyz^
+||fjcase.ru^
+||skinxdrops.fun^
+||csgojust.ru^
+||scraporwin.com^
+||190.115.18.152^
+||gift-key.com^
+||xdagamerolls.com^
+||yourgamexroll.com^
+||coinanza.com^
+||winxdrop.com^
+||freegameez.com^
+||mega-dropx.com^
+||rolldisgame.com^
+||190.115.18.58^
+||xgame-xkey.top^
+||datgamesdrop.com^
+||disgamerolls.com^
+||disgamexroll.com^
+||randomgamesyou.com^
+||datgamesroulette.com^
+||xdatpubg.com^
+||yourgameroll.com^
+||xyourgamesbundle.com^
+||xgame-key.top^
+||datgameroulette.com^
+||xforce-drop.top^
+||gamexxkey.com^
+||xgame-key.top^
+||datgamesx.com^
+||tf2haunted.com^
+||fuzeplayit.com^
 ||kmspico10.org^
 ||kmspicoffice.com^
 ||kmspico4u.com^
