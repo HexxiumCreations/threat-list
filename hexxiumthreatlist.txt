@@ -5,10 +5,24 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20190616
+! Version: 20190710
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||gogetsplendidapps.com^
+||emkei.cz^
+||ellendegeneresgift2019real.blogspot.com^
+||kingjobz.com^
+||deloplen.com^
+||lake-erie-fishing-charter.com^
+||com-servers.live^
+||recadastramentoobrigatoriosclientescredicard.club^
+||limite-aprovado-way-cc.umbler.net^
+||l-instagram.cf^
+||ite8.co.uk^
+||neurophilosophica.com^
+||alexanderscriabin.ru^
+||boxerblog.com^
 ||tf2zone.com^
 ||itemsrate.com^
 ||tf2sell.site^
