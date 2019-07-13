@@ -5,10 +5,67 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20190710
+! Version: 20190713
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||greenyourday69.agency^
+||sporters1.com^
+||daylimovie.com^
+||collbleum.xyz^
+||cinemago.us^
+||saliensbets.com^
+||battlexbet.com^
+||onionfiles.com^
+||peekabogift.com^
+||movies-shows.com^
+||hdmovieswatch.pw^
+||fullmovieis.org^
+||kill-streak.com^
+||watchhighlycurrentprogram.icu^
+||putlockers.me^
+||putlockers.as^
+||movie-pass.live^
+||putlockers.cz^
+||softwareso.app^
+||csmvcecup.com^
+||mvccup.info^
+||cscmcup.com^
+||randkeys.site^
+||bestplay.vip^
+||freeitemstf2.com^
+||tf2offers.com^
+||primewire.to^
+||primewire.ac^
+||bamstargram.com^
+||central-messages.com^
+||putlocker.kz^
+||wilrolachenho.pro^
+||fastmediaz.com^
+||pushmobilenews.com^
+||just-watch-it.com^
+||watch123movies.live^
+||checking-in-progress.com^
+||kingsport3.com^
+||fakesemoiin24.com^
+||faceit.link^
+||magna-gift.com^
+||gamexspin.fun^
+||csray.cf^
+||tortiksurprise.pro^
+||steamcomrnnunutu.com^
+||csgoland.ga^
+||historicskins.fun^
+||csgowash.ga^
+||csgocasino.ga^
+||csgolaw.com^
+||csgotripple.pro^
+||skinsbarter.pro^
+||skinsluck.pro^
+||eazyskins.ru^
+||luckydrop.space^
+||freeskinz.fun^
+||luckyrulett.gq^
 ||gogetsplendidapps.com^
 ||emkei.cz^
 ||ellendegeneresgift2019real.blogspot.com^
@@ -54,7 +111,6 @@
 ||xdatpubg.com^
 ||yourgameroll.com^
 ||xyourgamesbundle.com^
-||xgame-key.top^
 ||datgameroulette.com^
 ||xforce-drop.top^
 ||gamexxkey.com^
@@ -1859,7 +1915,6 @@
 ||mysteamgames.co^
 ||steamspecial.com^
 ||steamreward.com^
-||freesteamkeys.com^
 ||steamcodegenerator.online^
 ||steamwallet-codes.com^
 ||freesteamcodes.gripbuilds.com^
