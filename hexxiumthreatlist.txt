@@ -5,10 +5,11 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20190901
+! Version: 20190904
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||csgolimix.gq^
 ||kickasstorrents.ee^
 ||dropcsgo.fun^
 ||csgostar.ml^
@@ -68,13 +69,13 @@
 ||fundsover.com^
 ||cryptomoneytechh.blogspot.com^
 ||starwish.icu^
-||anonfiles.com/Uf31me45n0/LIL_generator_rar^
+||anonfiles.com/Uf31me45n0/LIL_generator_rar^|$document
 ||paypalmoneyadder.top^
 ||fundszap.com^
 ||myhacktools.com^
 ||ppmadder.tk^
 ||hackheck.com^
-||mega.nz/#!wmZRlKZK!H4lIBGVFtB1MZBg2AGRqdrmLrNRYnYPiZFpkuGMqltY^
+||mega.nz/#!wmZRlKZK!H4lIBGVFtB1MZBg2AGRqdrmLrNRYnYPiZFpkuGMqltY^|$document
 ||currencyadder.com^
 ||ppmoneyhack.com^
 ||fileice.net^
@@ -92,7 +93,6 @@
 ||btctools.info^
 ||generator-online.us^
 ||apphackx.com^
-||anonfiles.com/F9gfge44nb/Generator_rar^
 ||ign-games.com^
 ||ppfreemoney.xyz^
 ||zoxdown.com^
@@ -111,7 +111,6 @@
 ||generatefreebitcoin.com^
 ||pool-bitcoin-generator.com^
 ||bitcoin-btc-generators.com^
-||mega.nz/#!OrQUXa5S!XVDDFQGMkgp0qCm2v6RRSEztohV3pnYNk_fFobA91NU^
 ||bitcoinfreemining.net^
 ||bitcoinpoolmining.xyz^
 ||smartcoingenerator.com^
@@ -135,7 +134,7 @@
 ||btcgenerator.net^
 ||bitcoinhacker.net^
 ||bitcoingener.blogspot.com^
-||mega.nz/#!6yQFzQyC!NntsHxzweUwU3zl4qQHRxGzqZLYDYRwCEwoIF-PNLR0^
+||mega.nz/#!6yQFzQyC!NntsHxzweUwU3zl4qQHRxGzqZLYDYRwCEwoIF-PNLR0^|$document
 ||gtor.online^
 ||bitcoinburner.net^
 ||generatebitcoin.xyz^
@@ -253,21 +252,21 @@
 ||forbucks.club^
 ||getsteamkeys.com^
 ||bib-9.fun^
-||drive.google.com/file/d/1xo9u-1_TPC3mvFvFPQUf4Enb6mcKMQT2/view^
+||drive.google.com/file/d/1xo9u-1_TPC3mvFvFPQUf4Enb6mcKMQT2/*^|$document
 ||axioxi.com^
-||mega.nz/#!tYtHQYgL!umP6JLOaFCxcW98UTACp9CM0BdDWUfW-bFeBCi1ieoE^
+||mega.nz/#!tYtHQYgL!umP6JLOaFCxcW98UTACp9CM0BdDWUfW-bFeBCi1ieoE^|$document
 ||numfile.com^
 ||dropbbase.com^
 ||dulum.info^
 ||keygenseriallicence.com^
 ||surveyaward.co^
-||mega.nz/#!j6QE0IaK!Q8x5SGnRlwq0FvWhkrZrB4YcCwmGBdV0gX2Vxf6STVU^
-||file-7.com/download/YlaOdlcJ^
+||mega.nz/#!j6QE0IaK!Q8x5SGnRlwq0FvWhkrZrB4YcCwmGBdV0gX2Vxf6STVU^|$document
+||file-7.com/download/YlaOdlcJ^|$document
 ||officekeygen.tk^
 ||housewool.club^
 ||letsgodownload.ml^
 ||windows-key-finder.com^
-||mega.nz/#!kc8zwaaL!YubRVGn9rF0dJheVYiTmzpnuSMQ6DaPIc2aQbOF2Z2A^
+||mega.nz/#!kc8zwaaL!YubRVGn9rF0dJheVYiTmzpnuSMQ6DaPIc2aQbOF2Z2A^|$document
 ||success-is-in-reach.com^
 ||yibacurd.com^
 ||greenyourday69.agency^
@@ -424,18 +423,13 @@
 ||spindatgamex.com^
 ||steamcodegenerator.xyz^
 ||officialkmspico.com^
-||mega.nz/#!PapRnS6b!OQL7w6rfGaepup9My8JEZrxfNknqH-amKE7rs6uNxIE^
-||mega.nz/#!De5HmIYB!re7fnhGXtSkBiTm1P2Fdrz-UBRIDJGmtl_lojTT7uto^
-||mega.nz/#!26523KBQ!cRGbq196VhsddSYK26gkyIi5dhUJYozuFQIsDdD_ZOY^
-||sendspace.com/file/zc0izq^
 ||guccidrop.top^
-||kutt.it/2Rkps7^
 ||efsjdomongowalo.xyz^
-||4.pn/6l?QDAWTVWTBR^
+||4.pn/6l?QDAWTVWTBR^|$document
 ||getsteamgifts.com^
 ||getsteambonus.com^
 ||giftcardrebel.com^
-||mediafire.com/file/anxnc5t8v1rr4es/Amazon+Gift+Card+Generator+%28password+is+amazon%29.zip^
+||mediafire.com/file/anxnc5t8v1rr4es/Amazon+Gift+Card+Generator+%28password+is+amazon%29.zip^|$document
 ||railsbait.com^
 ||railvbait.com^
 ||download-stream.com^
