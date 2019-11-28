@@ -5,10 +5,11 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20190927
+! Version: 20191128
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||ijimolik.com^
 ||mybitdefender-central.com^
 ||my-bitdefender.com^
 ||bitdefender-login.com^
