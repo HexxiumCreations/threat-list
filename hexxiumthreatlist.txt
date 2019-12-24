@@ -9,6 +9,31 @@
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||x5vs5cup.com^
+||xmastercup.com^
+||tf2cuplay.com^
+||rustoria.store^
+||gg-esea.com^
+||msiworldcup.com^
+||triple-hat.store^
+||hat2store.com^
+||freebtcgenerator.eu^
+||bitcoingenerator.tools^
+||bithoney.io^
+||bitcoingenerator.app^
+||bitcoin-generator.info^
+||btcgenerator.pro^
+||btc-generator.online^
+||bitcoingenerator2019.org^
+||generate-bitcoin.com^
+||cryptoclouds.tech^
+||bitgen.website^
+||online-bitcoin-generator.com^
+||bitcoin-generator.live^
+||elonmuskgift.com^
+||pvproyal.com^
+||crazyxroulette.com^
+||playingcup.com^
 ||d2gameday.com^
 ||new-movies-shows.com^
 ||backpacktf.store^
