@@ -5,10 +5,40 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20200204
+! Version: 20200220
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||ouroffercode.com^
+||nextoffer.pw^
+||gamesmaster2.wixsite.com^
+||trendoffer.website^
+||grabyourprize.club^
+||earnprize.site^
+||modpro.pw^
+||ogplus.pro^
+||appcash.best^
+||dailyprize.online^
+||elangy.life^
+||bestsweepstake.com^
+||newcode.live^
+||codeshop.us^
+||tf2hotgift.store^
+||gifttf2.store^
+||amarellis-spint.com^
+||amaryllis-spin.com^
+||skinsmax-roll.com^
+||farmcash.online^
+||privatecode.fun^
+||getcodes.store^
+||giftcard.tools^
+||aluckyday.xyz^
+||uply.best^
+||playgift.club^
+||gplayreward.com^
+||webgift.club^
+||mccl.best^
+||kiry.best^
 ||comegaming.com^
 ||fryingpan.store^
 ||tf2frost.com^
@@ -37,7 +67,6 @@
 ||nexxzy.com^
 ||betitem.com^
 ||skindefinder.com^
-||tf2modes.com^
 ||skinsunity.com^
 ||itemscheckbase.com^
 ||startgame.fun^
