@@ -36,7 +36,7 @@ Below is the submission example for threat-list:
 
 At no point should a domain have any prefix such as https:// or www. in the list, addtionally, subdomains should NOT be used unless you fully intend to block ONLY that subdomain and not the entire domain. You do not need to include any pages or data beyond the .com (.tk,.ca, etc) to block the domain.
 
-- For HOSTS submissions, do not include any subdomain blocking.
+- For HOSTS submissions, do not include any document or specific page on a domain blocking. - Subdomains and actual domains should work fine - DOMAINSONLY submissions should be exact copies of the HOSTS file minus the 0.0.0.0 and any spaces
 
 ## Labeling & Internal Review Tracking
 
