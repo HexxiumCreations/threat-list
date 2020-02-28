@@ -1,8 +1,52 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 02/21/2020
-# Date of Threat-list update (mm/dd/yyyy): 02/20/2020
+# Last Hosts Update (mm/dd/yyyy): 02/26/2020
+# Date of Threat-list update (mm/dd/yyyy): 02/26/2020
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 freetricks.website
+0.0.0.0 giftcardpro.best
+0.0.0.0 robloxmods.com
+0.0.0.0 freegift001.000webhostapp.com
+0.0.0.0 bestgiftcard.store
+0.0.0.0 trkingrp.com
+0.0.0.0 atafree.com
+0.0.0.0 technomil.com
+0.0.0.0 genxcode4u.com
+0.0.0.0 filetrking.com
+0.0.0.0 giftcardstash.xyz
+0.0.0.0 gcard.top
+0.0.0.0 bestsweepstakes.xyz
+0.0.0.0 giveawayshop.club
+0.0.0.0 gcstorage.xyz
+0.0.0.0 getgifts.online
+0.0.0.0 giftcardgifts.xyz
+0.0.0.0 syllogift.xyz
+0.0.0.0 123codes.info
+0.0.0.0 wincode.live
+0.0.0.0 giftcard.5v.pl
+0.0.0.0 giftcardsking.club
+0.0.0.0 ecodes.online
+0.0.0.0 giftcardsking.cc
+0.0.0.0 gift-codes.org
+0.0.0.0 offerjust4u.com
+0.0.0.0 realrocco.com
+0.0.0.0 couponsite.site
+0.0.0.0 bidcode.xyz
+0.0.0.0 giftcardtool.us
+0.0.0.0 shopoffer.info
+0.0.0.0 megagiftcard.club
+0.0.0.0 gcstash.club
+0.0.0.0 easyegift.com
+0.0.0.0 giftgeeks.club
+0.0.0.0 win1kcodes.pw
+0.0.0.0 psn-codes.club
+0.0.0.0 gift4your.com
+0.0.0.0 unlimitedgiftcard.online
+0.0.0.0 skinspull-roll.com
+0.0.0.0 skinspull-rolls.com
+0.0.0.0 rise-skins.com
+0.0.0.0 riser-skins.com
+0.0.0.0 grate-skin.com
 0.0.0.0 ouroffercode.com
 0.0.0.0 nextoffer.pw
 0.0.0.0 gamesmaster2.wixsite.com

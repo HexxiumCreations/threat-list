@@ -5,10 +5,54 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20200220
+! Version: 20200226
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||freetricks.website^
+||giftcardpro.best^
+||robloxmods.com^
+||freegift001.000webhostapp.com^
+||bestgiftcard.store^
+||trkingrp.com^
+||atafree.com^
+||technomil.com^
+||genxcode4u.com^
+||filetrking.com^
+||giftcardstash.xyz^
+||gcard.top^
+||bestsweepstakes.xyz^
+||giveawayshop.club^
+||gcstorage.xyz^
+||getgifts.online^
+||giftcardgifts.xyz^
+||syllogift.xyz^
+||123codes.info^
+||wincode.live^
+||giftcard.5v.pl^
+||giftcardsking.club^
+||ecodes.online^
+||giftcardsking.cc^
+||gift-codes.org^
+||offerjust4u.com^
+||realrocco.com^
+||couponsite.site^
+||bidcode.xyz^
+||giftcardtool.us^
+||shopoffer.info^
+||megagiftcard.club^
+||gcstash.club^
+||easyegift.com^
+||giftgeeks.club^
+||win1kcodes.pw^
+||psn-codes.club^
+||gift4your.com^
+||unlimitedgiftcard.online^
+||skinspull-roll.com^
+||skinspull-rolls.com^
+||rise-skins.com^
+||riser-skins.com^
+||grate-skin.com^
 ||ouroffercode.com^
 ||nextoffer.pw^
 ||gamesmaster2.wixsite.com^
