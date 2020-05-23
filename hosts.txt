@@ -1,8 +1,13 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 05/01/2020
-# Date of Threat-list update (mm/dd/yyyy): 05/01/2020
+# Last Hosts Update (mm/dd/yyyy): 05/23/2020
+# Date of Threat-list update (mm/dd/yyyy): 05/23/2020
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 flowoptoffers.com
+0.0.0.0 promotionsonlineusa.com
+0.0.0.0 reviewhelpers.co
+0.0.0.0 login-boa.net
+0.0.0.0 bofa-login.com
 0.0.0.0 goqrofan.store
 0.0.0.0 redvblu.store
 0.0.0.0 magictf2.store
