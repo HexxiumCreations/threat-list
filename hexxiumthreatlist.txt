@@ -5,10 +5,60 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20200523
+! Version: 20200626
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||navigg.xyz^
+||xitemgift.fun^
+||luccckyshot.fun^
+||xitemgift.fun^
+||simplebarny.fun^
+||dopplers.club^
+||superknife.club^
+||deviusers.online^
+||rewardworld.co^
+||tf2itemgift.fun^
+||tf2club.com^
+||rollgameit.fun^
+||coinswon.com^
+||tf2-scrap.fun^
+||tf2gloss.com^
+||toptf2pro.fun^
+||tf2progold.fun^
+||tf2swipe.com^
+||tf2id.com^
+||hpdeskjet3630.com^
+||tf2itempro.fun^
+||xbetfun.fun^
+||gifttasks.com^
+||sendspace.com/file/12kgrq^|$document
+||steamcommunitytrade.icu^
+||realfreecode.com^
+||freeprizezone.com^
+||ogcodes.club^
+||sgames.xyz^
+||anonfiles.com/j4R3v139o8/GiftCard_Generator_rar^|$document
+||mrtgiveways.xyz^
+||bestgiftscard.com^
+||gameloot.org^
+||btc-generator.com^
+||generatefreebitcoins.xyz^
+||cryptobitco.info^
+||freebitgenerator.com^
+||bitcoincashgeneratortool.com^
+||online-bitcoin-adder.com^
+||btcgen.org^
+||bitcoingenerator.digital^
+||satoshigenerator.com^
+||get-bitcoin.online^
+||tf2stopcovid19.fun^
+||tf2log.com^
+||navifu.ru^
+||steamcommunitycsgo.com^
+||empire-lovegifts.pro^
+||naviog.pp.ua^
+||imgvieweriri.com^
 ||flowoptoffers.com^
 ||promotionsonlineusa.com^
 ||reviewhelpers.co^
