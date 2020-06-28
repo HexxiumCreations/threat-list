@@ -1,8 +1,56 @@
 # Hosts file format pulled from threat-list main (currently manually only)
 # Last Hosts Update (mm/dd/yyyy): 05/23/2020
-# Date of Threat-list update (mm/dd/yyyy): 05/23/2020
+# Date of Threat-list update (mm/dd/yyyy): 06/26/2020
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 navigg.xyz
+0.0.0.0 xitemgift.fun
+0.0.0.0 luccckyshot.fun
+0.0.0.0 xitemgift.fun
+0.0.0.0 simplebarny.fun
+0.0.0.0 dopplers.club
+0.0.0.0 superknife.club
+0.0.0.0 deviusers.online
+0.0.0.0 rewardworld.co
+0.0.0.0 tf2itemgift.fun
+0.0.0.0 tf2club.com
+0.0.0.0 rollgameit.fun
+0.0.0.0 coinswon.com
+0.0.0.0 tf2-scrap.fun
+0.0.0.0 tf2gloss.com
+0.0.0.0 toptf2pro.fun
+0.0.0.0 tf2progold.fun
+0.0.0.0 tf2swipe.com
+0.0.0.0 tf2id.com
+0.0.0.0 hpdeskjet3630.com
+0.0.0.0 tf2itempro.fun
+0.0.0.0 xbetfun.fun
+0.0.0.0 gifttasks.com
+0.0.0.0 steamcommunitytrade.icu
+0.0.0.0 realfreecode.com
+0.0.0.0 freeprizezone.com
+0.0.0.0 ogcodes.club
+0.0.0.0 sgames.xyz
+0.0.0.0 mrtgiveways.xyz
+0.0.0.0 bestgiftscard.com
+0.0.0.0 gameloot.org
+0.0.0.0 btc-generator.com
+0.0.0.0 generatefreebitcoins.xyz
+0.0.0.0 cryptobitco.info
+0.0.0.0 freebitgenerator.com
+0.0.0.0 bitcoincashgeneratortool.com
+0.0.0.0 online-bitcoin-adder.com
+0.0.0.0 btcgen.org
+0.0.0.0 bitcoingenerator.digital
+0.0.0.0 satoshigenerator.com
+0.0.0.0 get-bitcoin.online
+0.0.0.0 tf2stopcovid19.fun
+0.0.0.0 tf2log.com
+0.0.0.0 navifu.ru
+0.0.0.0 steamcommunitycsgo.com
+0.0.0.0 empire-lovegifts.pro
+0.0.0.0 naviog.pp.ua
+0.0.0.0 imgvieweriri.com
 0.0.0.0 flowoptoffers.com
 0.0.0.0 promotionsonlineusa.com
 0.0.0.0 reviewhelpers.co
