@@ -1,12 +1,12 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 05/23/2020
-# Date of Threat-list update (mm/dd/yyyy): 06/26/2020
+# Last Hosts Update (mm/dd/yyyy): 06/30/2020
+# Date of Threat-list update (mm/dd/yyyy): 06/30/2020
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 inventorycsstore.info
 0.0.0.0 navigg.xyz
 0.0.0.0 xitemgift.fun
 0.0.0.0 luccckyshot.fun
-0.0.0.0 xitemgift.fun
 0.0.0.0 simplebarny.fun
 0.0.0.0 dopplers.club
 0.0.0.0 superknife.club
