@@ -5,10 +5,23 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20200630
+! Version: 20200703
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||steam-offer.info^
+||steam-trades.icu^
+||csgoinventory.info^
+||flarehat.store^
+||navis.pp.ua^
+||steam-incomingoffers.info^
+||steampoweredinventory.info^
+||csgo-inventory.icu^
+||cloud9cs.site^
+||cloud9case.com^
+||steam-community.rest^
+||marketplacetf.cc^
+||marketplacetf.pro^
 ||inventorycsstore.info^
 ||navigg.xyz^
 ||xitemgift.fun^
