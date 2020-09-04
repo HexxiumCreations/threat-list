@@ -1,8 +1,47 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 08/06/2020
-# Date of Threat-list update (mm/dd/yyyy): 08/06/2020
+# Last Hosts Update (mm/dd/yyyy): 09/02/2020
+# Date of Threat-list update (mm/dd/yyyy): 09/02/2020
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 twitch-events.xyz
+0.0.0.0 cloud9j.xyz
+0.0.0.0 navifree.pp.ua
+0.0.0.0 ggametf2.fun
+0.0.0.0 soulstrade.com
+0.0.0.0 traderx2.com
+0.0.0.0 steamcommunitytrades.pw
+0.0.0.0 strikeskins.com
+0.0.0.0 rapidtrade.xyz
+0.0.0.0 steamtradecsgo.icu
+0.0.0.0 steamtradecommunity.icu
+0.0.0.0 tradingx2.fun
+0.0.0.0 tf2blossom.com
+0.0.0.0 kinggabex2.com
+0.0.0.0 ggfun.fun
+0.0.0.0 magicdust.top
+0.0.0.0 twitch-giveaway.pro
+0.0.0.0 magichood.top
+0.0.0.0 coinfarm.fun
+0.0.0.0 magic777.top
+0.0.0.0 hollyskins.pp.ua
+0.0.0.0 lovegaben.com
+0.0.0.0 skinplanets.com
+0.0.0.0 tf2money.com
+0.0.0.0 tf2-info.com
+0.0.0.0 rumin-skin.com
+0.0.0.0 tf2market.shop
+0.0.0.0 tf2trades.net
+0.0.0.0 traidingtf2.xyz
+0.0.0.0 onegg.fun
+0.0.0.0 deviltrade.fun
+0.0.0.0 steamcommunityhub.info
+0.0.0.0 tf2summer.xyz
+0.0.0.0 laneplay.vip
+0.0.0.0 getprotf2.xyz
+0.0.0.0 tf2goldfan.com
+0.0.0.0 tf2exchange.store
+0.0.0.0 tf2severed.com
+0.0.0.0 tf2deals.com
 0.0.0.0 mamamiyase.com
 0.0.0.0 gplaycard.com
 0.0.0.0 colormywhatsapp.com
