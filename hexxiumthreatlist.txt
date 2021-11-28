@@ -5,10 +5,12 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20200902
+! Version: 20211128
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||munchkins.company.com^
+||unitedsafeshippers.com^
 ||twitch-events.xyz^
 ||cloud9j.xyz^
 ||navifree.pp.ua^
