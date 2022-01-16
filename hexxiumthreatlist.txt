@@ -5,10 +5,20 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20211128
+! Version: 20220116
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||myhypeposts.com^
+||jurmwhost.xyz^
+||tubroaffs.org^
+||launchmostadvancedthefile.vip^
+||aff-track.net^
+||xojyoaiypgbqd.com^
+||hidelen.com^
+||your-download-now.com^
+||gloonseetaih.com^
+||deshaici.net^
 ||munchkins.company.com^
 ||unitedsafeshippers.com^
 ||twitch-events.xyz^
