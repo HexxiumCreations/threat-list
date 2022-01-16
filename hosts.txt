@@ -1,8 +1,18 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 11/28/2021
-# Date of Threat-list update (mm/dd/yyyy): 11/28/2021
+# Last Hosts Update (mm/dd/yyyy): 01/16/2022
+# Date of Threat-list update (mm/dd/yyyy): 01/16/2022
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 myhypeposts.com
+0.0.0.0 jurmwhost.xyz
+0.0.0.0 tubroaffs.org
+0.0.0.0 launchmostadvancedthefile.vip
+0.0.0.0 aff-track.net
+0.0.0.0 xojyoaiypgbqd.com
+0.0.0.0 hidelen.com
+0.0.0.0 your-download-now.com
+0.0.0.0 gloonseetaih.com
+0.0.0.0 deshaici.net
 0.0.0.0 munchkins.company.com
 0.0.0.0 unitedsafeshippers.com
 0.0.0.0 twitch-events.xyz
