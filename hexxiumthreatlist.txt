@@ -5,10 +5,29 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20220116
+! Version: 20220117
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||launchquickintenselythefile.vip^
+||jgyanmysofgs.com^
+||yrsii.xyz^
+||giftpb.com^
+||bbacertz.co.uk^
+||gogle.net^
+||elm-esports.com^
+||azuresites.net^
+||browse-privately.net^
+||blinkweb.net^
+||onlinescustomersurvey.com^
+||fabia-her.com^
+||adroadlinks.com^
+||yourbankaccounts.info^
+||checkingaccountcenter.com^
+||checkingaccountpro.com^
+||cloudpersonalloans.com^
+||openfinancial.co^
+||meganz.download^
 ||myhypeposts.com^
 ||jurmwhost.xyz^
 ||tubroaffs.org^
