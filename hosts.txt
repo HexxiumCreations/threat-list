@@ -1,8 +1,27 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 01/16/2022
-# Date of Threat-list update (mm/dd/yyyy): 01/16/2022
+# Last Hosts Update (mm/dd/yyyy): 01/17/2022
+# Date of Threat-list update (mm/dd/yyyy): 01/17/2022
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 launchquickintenselythefile.vip
+0.0.0.0 jgyanmysofgs.com
+0.0.0.0 yrsii.xyz
+0.0.0.0 giftpb.com
+0.0.0.0 bbacertz.co.uk
+0.0.0.0 gogle.net
+0.0.0.0 elm-esports.com
+0.0.0.0 azuresites.net
+0.0.0.0 browse-privately.net
+0.0.0.0 blinkweb.net
+0.0.0.0 onlinescustomersurvey.com
+0.0.0.0 fabia-her.com
+0.0.0.0 adroadlinks.com
+0.0.0.0 yourbankaccounts.info
+0.0.0.0 checkingaccountcenter.com
+0.0.0.0 checkingaccountpro.com
+0.0.0.0 cloudpersonalloans.com
+0.0.0.0 openfinancial.co
+0.0.0.0 meganz.download
 0.0.0.0 myhypeposts.com
 0.0.0.0 jurmwhost.xyz
 0.0.0.0 tubroaffs.org
