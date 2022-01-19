@@ -5,10 +5,21 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20220117
+! Version: 20220119
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||taoeeewox.com^
+||shapelcounset.xyz^
+||downloadxd.club^
+||st23q.com^
+||bloodearthquake.icu^
+||naturaldownload.com^
+||datingsingles20.com^
+||secureme-dt.com^
+||singleflirt.com^
+||paymentsweb.org^
+||byebyeads.org^
 ||launchquickintenselythefile.vip^
 ||jgyanmysofgs.com^
 ||yrsii.xyz^
