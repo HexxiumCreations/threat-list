@@ -1,8 +1,19 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 01/17/2022
-# Date of Threat-list update (mm/dd/yyyy): 01/17/2022
+# Last Hosts Update (mm/dd/yyyy): 01/19/2022
+# Date of Threat-list update (mm/dd/yyyy): 01/19/2022
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 taoeeewox.com
+0.0.0.0 shapelcounset.xyz
+0.0.0.0 downloadxd.club
+0.0.0.0 st23q.com
+0.0.0.0 bloodearthquake.icu
+0.0.0.0 naturaldownload.com
+0.0.0.0 datingsingles20.com
+0.0.0.0 secureme-dt.com
+0.0.0.0 singleflirt.com
+0.0.0.0 paymentsweb.org
+0.0.0.0 byebyeads.org
 0.0.0.0 launchquickintenselythefile.vip
 0.0.0.0 jgyanmysofgs.com
 0.0.0.0 yrsii.xyz
