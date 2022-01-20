@@ -1,8 +1,12 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 01/19/2022
-# Date of Threat-list update (mm/dd/yyyy): 01/19/2022
+# Last Hosts Update (mm/dd/yyyy): 01/20/2022
+# Date of Threat-list update (mm/dd/yyyy): 01/20/2022
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 marketingservicesignup.com
+0.0.0.0 pcnghw.com
+0.0.0.0 chattingverify.com
+0.0.0.0 freeverifynow.com
 0.0.0.0 taoeeewox.com
 0.0.0.0 shapelcounset.xyz
 0.0.0.0 downloadxd.club
