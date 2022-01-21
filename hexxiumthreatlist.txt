@@ -5,10 +5,16 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20220120
+! Version: 20220121
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||discountshops2021.ru^
+||sbeenawholeyear.xyz^
+||lachemoilesbaskets.com^
+||mgarage.pro^
+||primerprizezone.life^
+||firenewschief.top^
 ||marketingservicesignup.com^
 ||pcnghw.com^
 ||chattingverify.com^
