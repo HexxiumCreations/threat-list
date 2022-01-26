@@ -1,8 +1,22 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 01/21/2022
-# Date of Threat-list update (mm/dd/yyyy): 01/21/2022
+# Last Hosts Update (mm/dd/yyyy): 01/26/2022
+# Date of Threat-list update (mm/dd/yyyy): 01/26/2022
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 skiathosrestaurants.com
+0.0.0.0 dayunicorn.com
+0.0.0.0 psemux.com
+0.0.0.0 verifyspot.net
+0.0.0.0 xshared.link
+0.0.0.0 ps5emulator.net
+0.0.0.0 shortlinkit.xyz
+0.0.0.0 surveyvoicesresearch.com
+0.0.0.0 luckycashzone.com
+0.0.0.0 cstpersl.com
+0.0.0.0 dailyfocusng.com
+0.0.0.0 tiborola.info
+0.0.0.0 cifegate.info
+0.0.0.0 plastmedical.co
 0.0.0.0 discountshops2021.ru
 0.0.0.0 sbeenawholeyear.xyz
 0.0.0.0 lachemoilesbaskets.com
