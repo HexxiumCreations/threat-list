@@ -5,10 +5,24 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20220121
+! Version: 20220126
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||skiathosrestaurants.com^
+||dayunicorn.com^
+||psemux.com^
+||verifyspot.net^
+||xshared.link^
+||ps5emulator.net^
+||shortlinkit.xyz^
+||surveyvoicesresearch.com^
+||luckycashzone.com^
+||cstpersl.com^
+||dailyfocusng.com^
+||tiborola.info^
+||cifegate.info^
+||plastmedical.co^
 ||discountshops2021.ru^
 ||sbeenawholeyear.xyz^
 ||lachemoilesbaskets.com^
