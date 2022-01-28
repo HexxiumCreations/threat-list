@@ -1,8 +1,21 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 01/26/2022
-# Date of Threat-list update (mm/dd/yyyy): 01/26/2022
+# Last Hosts Update (mm/dd/yyyy): 01/28/2022
+# Date of Threat-list update (mm/dd/yyyy): 01/28/2022
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 epingi.com
+0.0.0.0 mysaysapp.com
+0.0.0.0 meetrader.com
+0.0.0.0 crushnearby.com
+0.0.0.0 acjip.icu
+0.0.0.0 href.li
+0.0.0.0 me2.do
+0.0.0.0 stxpp.com
+0.0.0.0 eazyasist.com
+0.0.0.0 agentofficemail.com
+0.0.0.0 supplygb.com
+0.0.0.0 inx.lv
+0.0.0.0 searchwithincognitoapp.com
 0.0.0.0 skiathosrestaurants.com
 0.0.0.0 dayunicorn.com
 0.0.0.0 psemux.com
