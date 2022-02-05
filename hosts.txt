@@ -1,8 +1,27 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 02/01/2022
-# Date of Threat-list update (mm/dd/yyyy): 02/01/2022
+# Last Hosts Update (mm/dd/yyyy): 02/05/2022
+# Date of Threat-list update (mm/dd/yyyy): 02/05/2022
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 sayout.me
+0.0.0.0 devicefix.rest
+0.0.0.0 mobnfgt.com
+0.0.0.0 cmdz35pvhcde.top
+0.0.0.0 important-messages.info
+0.0.0.0 loyalty-page.xyz
+0.0.0.0 pccamerica.xyz
+0.0.0.0 cloud-storage-help.site
+0.0.0.0 rewardsavenue.net
+0.0.0.0 zprelandappslab.com
+0.0.0.0 inpage-push.com
+0.0.0.0 whugesto.net
+0.0.0.0 asstok.com
+0.0.0.0 b-cdn.net
+0.0.0.0 totalav.com
+0.0.0.0 perfectwoman-here.life
+0.0.0.0 fckme8s.com
+0.0.0.0 insta-sex.com
+0.0.0.0 homedepoten.com
 0.0.0.0 nude-datting.online
 0.0.0.0 bigasschubby.com
 0.0.0.0 0.0.0.0 bunnygirlss.site
