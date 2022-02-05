@@ -5,10 +5,29 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20220201
+! Version: 20220205
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||sayout.me^
+||devicefix.rest^
+||mobnfgt.com^
+||cmdz35pvhcde.top^
+||important-messages.info^
+||loyalty-page.xyz^
+||pccamerica.xyz^
+||cloud-storage-help.site^
+||rewardsavenue.net^
+||zprelandappslab.com^
+||inpage-push.com^
+||whugesto.net^
+||asstok.com^
+||b-cdn.net^
+||totalav.com^
+||perfectwoman-here.life^
+||fckme8s.com^
+||insta-sex.com^
+||homedepoten.com^
 ||nude-datting.online^
 ||bigasschubby.com^
 ||bunnygirlss.site^
