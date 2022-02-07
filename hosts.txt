@@ -16,7 +16,6 @@
 0.0.0.0 inpage-push.com
 0.0.0.0 whugesto.net
 0.0.0.0 asstok.com
-0.0.0.0 b-cdn.net
 0.0.0.0 totalav.com
 0.0.0.0 perfectwoman-here.life
 0.0.0.0 fckme8s.com
