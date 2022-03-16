@@ -5,10 +5,15 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20220227
+! Version: 20220315
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||billingproblem-case-wvaohs.info^
+||twitler.info^
+||rivaschool.fr^
+||fudbot.hu^
+||hellospace.world^
 ||mall-live.top^
 ||aishite.tokyo^
 ||easy-lay.com^
