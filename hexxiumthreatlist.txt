@@ -5,10 +5,21 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20220317-2
+! Version: 20220318
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||parmelgomma.ro^
+||talvitech.co.za^
+||android-booster.com^
+||omciecoa37tw4.com^
+||bswkwz.com^
+||articles-news-magazine.com^
+||adsprotector.com^
+||quickwarningphonerisk.rest^
+||security-update-ver16032022.com^
+||uz-panel-verified-series.rest^
+||fmxfqpf0peae.top^
 ||freegiftscards2020.blogspot.com^
 ||netfliiiix.blogspot.com^
 ||degetcode.com^
