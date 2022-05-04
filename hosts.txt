@@ -1,8 +1,17 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 03/18/2022
-# Date of Threat-list update (mm/dd/yyyy): 03/18/2022
+# Last Hosts Update (mm/dd/yyyy): 05/04/2022
+# Date of Threat-list update (mm/dd/yyyy): 05/04/2022
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 reddogupdatephone.xyz
+0.0.0.0 phonecleansolutions.com
+0.0.0.0 celebs-breaking-news.com
+0.0.0.0 closedmyvideo.com
+0.0.0.0 parisjeroleinpg.com
+0.0.0.0 check-update-today.com
+0.0.0.0 ad-score.com
+0.0.0.0 ltiadxa9vpdi.top
+0.0.0.0 up-security-version032322.com
 0.0.0.0 parmelgomma.ro
 0.0.0.0 talvitech.co.za
 0.0.0.0 android-booster.com
