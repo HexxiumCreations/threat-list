@@ -5,10 +5,19 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20220318
+! Version: 20220504
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||reddogupdatephone.xyz^
+||phonecleansolutions.com^
+||celebs-breaking-news.com^
+||closedmyvideo.com^
+||parisjeroleinpg.com^
+||check-update-today.com^
+||ad-score.com^
+||ltiadxa9vpdi.top^
+||up-security-version032322.com^
 ||parmelgomma.ro^
 ||talvitech.co.za^
 ||android-booster.com^
