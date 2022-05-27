@@ -1,8 +1,58 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 05/04/2022
-# Date of Threat-list update (mm/dd/yyyy): 05/04/2022
+# Last Hosts Update (mm/dd/yyyy): 05/27/2022
+# Date of Threat-list update (mm/dd/yyyy): 05/27/2022
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 unltdentertainment.co
+0.0.0.0 xjcuwln.com
+0.0.0.0 demudo.buzz
+0.0.0.0 eroguen.xyz
+0.0.0.0 123cinematic.xyz
+0.0.0.0 direcmovies.com
+0.0.0.0 zodmovie.com
+0.0.0.0 remintbu.xyz
+0.0.0.0 solarmovie.stream
+0.0.0.0 bemovies.club
+0.0.0.0 moviemediaz.com
+0.0.0.0 moviecine.us
+0.0.0.0 iwatch-now.club
+0.0.0.0 itsnewmovie.com
+0.0.0.0 godazzle.net
+0.0.0.0 fadalanis.com
+0.0.0.0 goplayz.com
+0.0.0.0 foeplayz.com
+0.0.0.0 foxmovieshd.xyz
+0.0.0.0 keycinematic.xyz
+0.0.0.0 dcamovies.com
+0.0.0.0 urmediaz.com
+0.0.0.0 moviehd123.site
+0.0.0.0 moyudri.xyz
+0.0.0.0 streamflixhd.xyz
+0.0.0.0 cobrevinia.xyz
+0.0.0.0 mediaz247.com
+0.0.0.0 clickhd.cc
+0.0.0.0 starlive.website
+0.0.0.0 muzicers.com
+0.0.0.0 worldmopie.site
+0.0.0.0 readz411.com
+0.0.0.0 movie4knews.com
+0.0.0.0 mopiex.com
+0.0.0.0 starzboy.com
+0.0.0.0 gredmoviez.xyz
+0.0.0.0 play123moviex.com
+0.0.0.0 musiczmeow.com
+0.0.0.0 fitworldz.com
+0.0.0.0 movtimes.site
+0.0.0.0 geomfilms.com
+0.0.0.0 besttvmovie.com
+0.0.0.0 cinetheatre.space
+0.0.0.0 max4click.com
+0.0.0.0 live-streams.online
+0.0.0.0 playbunt.com
+0.0.0.0 moviesgo.xyz
+0.0.0.0 fx-starz.com
+0.0.0.0 siriusmovie.pw
+0.0.0.0 foxhd123cinema.xyz
 0.0.0.0 reddogupdatephone.xyz
 0.0.0.0 phonecleansolutions.com
 0.0.0.0 celebs-breaking-news.com
