@@ -1,8 +1,26 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 05/27/2022
-# Date of Threat-list update (mm/dd/yyyy): 05/27/2022
+# Last Hosts Update (mm/dd/yyyy): 06/17/2022
+# Date of Threat-list update (mm/dd/yyyy): 06/17/2022
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 tf2salute.com
+0.0.0.0 stavilms.me
+0.0.0.0 catchmovie.site
+0.0.0.0 gooplay.store
+0.0.0.0 rusty-games.com
+0.0.0.0 rusty-slice.com
+0.0.0.0 cshodl.com
+0.0.0.0 tf2bullring.com
+0.0.0.0 tf2illumination.com
+0.0.0.0 tf2comfort.com
+0.0.0.0 csmystery.com
+0.0.0.0 rusty-fire.com
+0.0.0.0 tf2corporation.com
+0.0.0.0 tf2companions.com
+0.0.0.0 tf2greatness.com
+0.0.0.0 tf2berry.com
+0.0.0.0 tf2snowfall.com
+0.0.0.0 tf2greatness.com
 0.0.0.0 unltdentertainment.co
 0.0.0.0 xjcuwln.com
 0.0.0.0 demudo.buzz
@@ -2057,7 +2075,6 @@
 0.0.0.0 fast-localtech-solu101.ml
 0.0.0.0 thebig-centeralplacecontentsafegreat.trade
 0.0.0.0 ui16d56vitu.tumblr.com
-0.0.0.0 vk.cc
 0.0.0.0 ethers.gift
 0.0.0.0 fortnite-vbucks.net
 0.0.0.0 exampassok.com
@@ -2689,7 +2706,6 @@
 0.0.0.0 gratisvps.net
 0.0.0.0 learnitliveitloveit.guildlaunch.com
 0.0.0.0 download-provider.org
-0.0.0.0 mediafiretrend.com
 0.0.0.0 securepccleaner.com
 0.0.0.0 downfilejd.com
 0.0.0.0 safetycomefirst.com
@@ -2931,7 +2947,6 @@
 0.0.0.0 steamunlock.com
 0.0.0.0 to.click
 0.0.0.0 steamcodegenerator.download
-0.0.0.0 gametame.com
 0.0.0.0 handouts.gg
 0.0.0.0 gameonjoe.com
 0.0.0.0 vgoarena.com
