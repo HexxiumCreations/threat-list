@@ -1,6 +1,6 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 06/17/2022
-# Date of Threat-list update (mm/dd/yyyy): 06/17/2022
+# Last Hosts Update (mm/dd/yyyy): 06/18/2022
+# Date of Threat-list update (mm/dd/yyyy): 06/18/2022
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
 0.0.0.0 cscybersmaster.com
