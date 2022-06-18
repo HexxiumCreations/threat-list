@@ -5,10 +5,29 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20220527
+! Version: 20220618
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||cscybersmaster.com^
+||tf2salute.com^
+||stavilms.me^
+||catchmovie.site^
+||gooplay.store^
+||rusty-games.com^
+||rusty-slice.com^
+||cshodl.com^
+||tf2bullring.com^
+||tf2illumination.com^
+||tf2comfort.com^
+||csmystery.com^
+||rusty-fire.com^
+||tf2corporation.com^
+||tf2companions.com^
+||tf2greatness.com^
+||tf2berry.com^
+||tf2snowfall.com^
+||tf2greatness.com^
 ||unltdentertainment.co^
 ||xjcuwln.com^
 ||demudo.buzz^
@@ -2076,7 +2095,6 @@
 ||fast-localtech-solu101.ml^
 ||thebig-centeralplacecontentsafegreat.trade^
 ||ui16d56vitu.tumblr.com^
-||vk.cc^
 ||ethers.gift^
 ||fortnite-vbucks.net^
 ||exampassok.com^
@@ -2708,7 +2726,6 @@
 ||gratisvps.net^
 ||learnitliveitloveit.guildlaunch.com^
 ||download-provider.org^
-||mediafiretrend.com^
 ||securepccleaner.com^
 ||downfilejd.com^
 ||safetycomefirst.com^
@@ -2950,7 +2967,6 @@
 ||steamunlock.com^
 ||to.click^
 ||steamcodegenerator.download^
-||gametame.com^
 ||handouts.gg^
 ||gameonjoe.com^
 ||vgoarena.com^
