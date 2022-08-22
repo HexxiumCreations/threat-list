@@ -5,10 +5,21 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20220618
+! Version: 20220822
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||mikelabcp.com^
+||655755855.com^
+||germanshepherdpupsforsaleintexas.shop^
+||ab.gl^
+||ewp.live^
+||www-trustwallet.com^
+||dokwo.com^
+||trythegoketogummies.com^
+||oothrhtp.com^
+||trytips4youtoday.com^
+||tawercl.us^
 ||cscybersmaster.com^
 ||tf2salute.com^
 ||stavilms.me^
