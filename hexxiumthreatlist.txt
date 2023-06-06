@@ -5,7 +5,7 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20220822
+! Version: 20230603
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
@@ -2074,7 +2074,6 @@
 ||narcosxxx.com^
 ||irtyf.com^
 ||adhoc2.net^
-||cpmstatsart^
 ||backdoorsecuritypro.world^
 ||technical-errors.ga^
 ||youtuybe.com^
