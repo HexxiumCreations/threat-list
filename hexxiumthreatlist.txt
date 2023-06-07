@@ -5,10 +5,11 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20230603
+! Version: 20230607
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||westopscams.fun^
 ||mikelabcp.com^
 ||655755855.com^
 ||germanshepherdpupsforsaleintexas.shop^
@@ -35,7 +36,6 @@
 ||rusty-fire.com^
 ||tf2corporation.com^
 ||tf2companions.com^
-||tf2greatness.com^
 ||tf2berry.com^
 ||tf2snowfall.com^
 ||tf2greatness.com^
@@ -526,7 +526,6 @@
 ||doublebitcoinfree.com^
 ||bit7880.com^
 ||coinka.ga^
-||www70.zippyshare.com/v/71116425/file.html^|$document
 ||gcgenonline.win^
 ||allgiftcodegen.com^
 ||steamwalletcodegenerator.net^
@@ -952,7 +951,6 @@
 ||fundsover.com^
 ||cryptomoneytechh.blogspot.com^
 ||starwish.icu^
-||anonfiles.com/Uf31me45n0/LIL_generator_rar^|$document
 ||paypalmoneyadder.top^
 ||fundszap.com^
 ||myhacktools.com^
@@ -1017,7 +1015,6 @@
 ||btcgenerator.net^
 ||bitcoinhacker.net^
 ||bitcoingener.blogspot.com^
-||mega.nz/#!6yQFzQyC!NntsHxzweUwU3zl4qQHRxGzqZLYDYRwCEwoIF-PNLR0^|$document
 ||gtor.online^
 ||bitcoinburner.net^
 ||generatebitcoin.xyz^
@@ -1137,19 +1134,16 @@
 ||bib-9.fun^
 ||drive.google.com/file/d/1xo9u-1_TPC3mvFvFPQUf4Enb6mcKMQT2/*^|$document
 ||axioxi.com^
-||mega.nz/#!tYtHQYgL!umP6JLOaFCxcW98UTACp9CM0BdDWUfW-bFeBCi1ieoE^|$document
 ||numfile.com^
 ||dropbbase.com^
 ||dulum.info^
 ||keygenseriallicence.com^
 ||surveyaward.co^
-||mega.nz/#!j6QE0IaK!Q8x5SGnRlwq0FvWhkrZrB4YcCwmGBdV0gX2Vxf6STVU^|$document
 ||file-7.com/download/YlaOdlcJ^|$document
 ||officekeygen.tk^
 ||housewool.club^
 ||letsgodownload.ml^
 ||windows-key-finder.com^
-||mega.nz/#!kc8zwaaL!YubRVGn9rF0dJheVYiTmzpnuSMQ6DaPIc2aQbOF2Z2A^|$document
 ||success-is-in-reach.com^
 ||yibacurd.com^
 ||greenyourday69.agency^
