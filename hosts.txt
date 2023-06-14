@@ -1,8 +1,29 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 06/07/2023
-# Date of Threat-list update (mm/dd/yyyy): 06/07/2023
+# Last Hosts Update (mm/dd/yyyy): 06/14/2023
+# Date of Threat-list update (mm/dd/yyyy): 06/14/2023
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 my-gifts.space
+0.0.0.0 stenmcommunity.com
+0.0.0.0 stearnscommunilty.com
+0.0.0.0 steanncamunity.com
+0.0.0.0 steanmscomnunnity.com
+0.0.0.0 stearncommunuetiuey.com
+0.0.0.0 steanmsconmmunnity.com
+0.0.0.0 steamcommunritly.com
+0.0.0.0 steamcommunuetiuey.com
+0.0.0.0 open-gifts.net
+0.0.0.0 glft-games.com
+0.0.0.0 deck-stean.com
+0.0.0.0 mynltro.com
+0.0.0.0 boxes-steam.com
+0.0.0.0 steamcomnumnitly.com
+0.0.0.0 steamscomnunitly.com
+0.0.0.0 steanmcomnmnunity.com
+0.0.0.0 steanmcommnimnity.com
+0.0.0.0 steamcomunuetiuey.com
+0.0.0.0 mygifts.site
+0.0.0.0 glfts.ru
 0.0.0.0 westopscams.fun
 0.0.0.0 mikelabcp.com
 0.0.0.0 655755855.com
