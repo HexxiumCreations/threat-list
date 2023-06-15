@@ -5,10 +5,20 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20230614
+! Version: 20230615
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||steamcommunillu.ru^
+||cstournaments.ru^
+||csgo-source2betta.com^
+||steanmcommnunity.com^
+||aceltcase.com^
+||betblitz-csgo.com^
+||steamcommuunnittys.com^
+||steamccomuniity.com^
+||stealmscomnunnity.com^
+||csgo-source2beta.com^
 ||my-gifts.space^
 ||stenmcommunity.com^
 ||stearnscommunilty.com^

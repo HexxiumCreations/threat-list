@@ -1,8 +1,18 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 06/14/2023
-# Date of Threat-list update (mm/dd/yyyy): 06/14/2023
+# Last Hosts Update (mm/dd/yyyy): 06/15/2023
+# Date of Threat-list update (mm/dd/yyyy): 06/15/2023
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 steamcommunillu.ru
+0.0.0.0 cstournaments.ru
+0.0.0.0 csgo-source2betta.com
+0.0.0.0 steanmcommnunity.com
+0.0.0.0 faceltcase.com
+0.0.0.0 betblitz-csgo.com
+0.0.0.0 steamcommuunnittys.com
+0.0.0.0 steamccomuniity.com
+0.0.0.0 stealmscomnunnity.com
+0.0.0.0 csgo-source2beta.com
 0.0.0.0 my-gifts.space
 0.0.0.0 stenmcommunity.com
 0.0.0.0 stearnscommunilty.com
