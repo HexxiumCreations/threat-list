@@ -5,16 +5,42 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20230616
+! Version: 20230619
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||stecmcommunity.com^
+||glft.ru^
+||gift-steamcomnunity.com^
+||steamcomumuetiuey.com^
+||open-gifts.space^
+||steamcomnmunlty.com^
+||steamcommnunltly.com^
+||steamcomumnlty.ru^
+||facetpaunch-twltch.com^
+||faceltcase.com^
+||dsnitrogift.com^
+||best-tournaments.com^
+||steammcommuunlity.ru^
+||steamconmunuity.com^
+||steamcomunuity.com^
+||stearncomnunlty.com^
+||steamcomuunlity.com^
+||steamcommunitru.com^
+||steamncomminity.com^
+||steanconumnity.com^
+||source2betta.com^
+||counter-strike2beta.com^
+||steamcommulnity.com^
+||valve-beta-access.pro^
+||steamconmuniity.com^
+||steamcomunnlty.com^
+||fsscybersport.pro^
 ||steamcomnnmunily.com^
 ||steamcommumintly.com^
 ||steamcomunnuetiuey.com^
 ||steamcomnmnunily.com^
 ||gft-50stm.com^
-||steanmcommnunity.com^
 ||steamcomuunntiy.ru^
 ||fastcup-cs.ru^
 ||staemcommnunuty.ru^
