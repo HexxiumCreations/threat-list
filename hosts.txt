@@ -1,15 +1,40 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 06/16/2023
-# Date of Threat-list update (mm/dd/yyyy): 06/16/2023
+# Last Hosts Update (mm/dd/yyyy): 06/19/2023
+# Date of Threat-list update (mm/dd/yyyy): 06/19/2023
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
-
+0.0.0.0 stecmcommunity.com
+0.0.0.0 glft.ru
+0.0.0.0 gift-steamcomnunity.com
+0.0.0.0 steamcomumuetiuey.com
+0.0.0.0 open-gifts.space
+0.0.0.0 steamcomnmunlty.com
+0.0.0.0 steamcommnunltly.com
+0.0.0.0 steamcomumnlty.ru
+0.0.0.0 facetpaunch-twltch.com
+0.0.0.0 faceltcase.com
+0.0.0.0 dsnitrogift.com
+0.0.0.0 best-tournaments.com
+0.0.0.0 steammcommuunlity.ru
+0.0.0.0 steamconmunuity.com
+0.0.0.0 steamcomunuity.com
+0.0.0.0 stearncomnunlty.com
+0.0.0.0 steamcomuunlity.com
+0.0.0.0 steamcommunitru.com
+0.0.0.0 steamncomminity.com
+0.0.0.0 steanconumnity.com
+0.0.0.0 source2betta.com
+0.0.0.0 counter-strike2beta.com
+0.0.0.0 steamcommulnity.com
+0.0.0.0 valve-beta-access.pro
+0.0.0.0 steamconmuniity.com
+0.0.0.0 steamcomunnlty.com
+0.0.0.0 fsscybersport.pro
 0.0.0.0 steamcomnnmunily.com
 0.0.0.0 steamcommumintly.com
 0.0.0.0 steamcomunnuetiuey.com
 0.0.0.0 steamcomnmnunily.com
 0.0.0.0 gft-50stm.com
-0.0.0.0 steanmcommnunity.com
 0.0.0.0 steamcomuunntiy.ru
 0.0.0.0 fastcup-cs.ru
 0.0.0.0 staemcommnunuty.ru
