@@ -5,10 +5,14 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20230619
+! Version: 20230620
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||steanmcomnnumnity.com^
+||free-gifts.space^
+||stearncormunilty.com^
+||beststream-sports.com^
 ||stecmcommunity.com^
 ||glft.ru^
 ||gift-steamcomnunity.com^
@@ -3513,7 +3517,6 @@
 ||csgo-lobby.com^
 ||csgoloot.com^
 ||csgo-lottery.com^
-||csgolounge.com^
 ||csgolucky.com^
 ||csgoluckywheel.com^
 ||csgomars.com^
