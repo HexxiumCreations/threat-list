@@ -5,10 +5,20 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20230626
+! Version: 20230703
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||steamcommulnlty.com^
+||my-gift.space^
+||myglft.space^
+||steamcomunuetiuy.com^
+||soma-gifts.online^
+||soma-gifts.ru^
+||source2betta.ru^
+||steaumconnunity.com^
+||steanmcommnunily.com^
+||steanmscommnunity.com^
 ||steamcommnunitly.com^
 ||steamcomumnuetiuey.com^
 ||steanmcommnunilty.com^
