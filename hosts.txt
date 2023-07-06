@@ -1,8 +1,13 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 07/03/2023
-# Date of Threat-list update (mm/dd/yyyy): 07/03/2023
+# Last Hosts Update (mm/dd/yyyy): 07/06/2023
+# Date of Threat-list update (mm/dd/yyyy): 07/06/2023
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 my-glfts.ru
+0.0.0.0 opens-glft.ru
+0.0.0.0 myglft.ru
+0.0.0.0 skinbaronl.com
+0.0.0.0 steamconmunnitiy.com
 0.0.0.0 steamcommulnlty.com
 0.0.0.0 my-gift.space
 0.0.0.0 myglft.space
@@ -2711,7 +2716,6 @@
 0.0.0.0 blueangelhost.net
 0.0.0.0 alinos.xyz
 0.0.0.0 onclkds.com
-0.0.0.0 j.gs
 0.0.0.0 get-youtube-subscribers.us
 0.0.0.0 voluumtrk.com
 0.0.0.0 securesaferoute.com
