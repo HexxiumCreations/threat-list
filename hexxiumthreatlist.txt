@@ -5,10 +5,15 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20230703
+! Version: 20230706
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||my-glfts.ru^
+||opens-glft.ru^
+||myglft.ru^
+||skinbaronl.com^
+||steamconmunnitiy.com^
 ||steamcommulnlty.com^
 ||my-gift.space^
 ||myglft.space^
@@ -2724,7 +2729,6 @@
 ||blueangelhost.net^
 ||alinos.xyz^
 ||onclkds.com^
-||j.gs^
 ||get-youtube-subscribers.us^
 ||voluumtrk.com^
 ||securesaferoute.com^
