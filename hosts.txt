@@ -1,8 +1,34 @@
 # Hosts file format pulled from threat-list main (currently manually only)
-# Last Hosts Update (mm/dd/yyyy): 08/10/2023
-# Date of Threat-list update (mm/dd/yyyy): 08/10/2023
+# Last Hosts Update (mm/dd/yyyy): 09/13/2023
+# Date of Threat-list update (mm/dd/yyyy): 09/13/2023
 # Notice about manual update: Ensure not to include domains where blocking the entire domain is not the intent. Meaning for example, if you only want to block a specific page, do not include that domain in an update here.
 # Set URL to 0.0.0.0 for entires.
+0.0.0.0 csgobeta.ru
+0.0.0.0 csgo2soursebeta.com
+0.0.0.0 cstwitch.ru
+0.0.0.0 stearnocommunity.com
+0.0.0.0 steamcommuniitys.com
+0.0.0.0 csstwo.com
+0.0.0.0 navi146.com
+0.0.0.0 twitchgb.com
+0.0.0.0 navi169.com
+0.0.0.0 steamcommunitu.ru
+0.0.0.0 steamcommuulty.com
+0.0.0.0 maxcs2.pro
+0.0.0.0 csrun.ru
+0.0.0.0 beta-2.pro
+0.0.0.0 startcs2.pro
+0.0.0.0 cs2up.pro
+0.0.0.0 csbeta2.pro
+0.0.0.0 beta2key.pro
+0.0.0.0 beta2k.pro
+0.0.0.0 betacsgo.pro
+0.0.0.0 steamncommuunity.com
+0.0.0.0 cs2bets.pro
+0.0.0.0 steamcommiunlty.com
+0.0.0.0 twitchs-gamer8.com
+0.0.0.0 cs2go.site
+0.0.0.0 cn-counterstrike.com
 0.0.0.0 steacmcoumunity.com
 0.0.0.0 my-giftes.ru
 0.0.0.0 source-2beta.com

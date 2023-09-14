@@ -5,10 +5,37 @@
 ! Expires: 2 days
 ! Report domains not being properly blocked to: support@hexxiumcreations.com
 ! (YYYY/MM/DD)
-! Version: 20230810
+! Version: 20230913
 ! USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
+||csgobeta.ru^
+||csgo2soursebeta.com^
+||cstwitch.ru^
+||stearnocommunity.com^
+||steamcommuniitys.com^
+||csstwo.com^
+||navi146.com^
+||twitchgb.com^
+||navi169.com^
+||steamcommunitu.ru^
+||steamcommuulty.com^
+||maxcs2.pro^
+||csrun.ru^
+||beta-2.pro^
+||startcs2.pro^
+||cs2up.pro^
+||csbeta2.pro^
+||beta2key.pro^
+||beta2k.pro^
+||betacsgo.pro^
+||steamncommuunity.com^
+||cs2bets.pro^
+||steamcommiunlty.com^
+||twitchs-gamer8.com^
+||cs2go.site^
+||cn-counterstrike.com^
+||ipfs.io/ipfs/QmXJ9WVqYnY3zqWQ3aT9wgmeW5GkUtfdngBjjeHLKCGpv2/roundcp.html^|$document
 ||steacmcoumunity.com^
 ||my-giftes.ru^
 ||source-2beta.com^
@@ -986,13 +1013,11 @@
 ||tf2itempro.fun^
 ||xbetfun.fun^
 ||gifttasks.com^
-||sendspace.com/file/12kgrq^|$document
 ||steamcommunitytrade.icu^
 ||realfreecode.com^
 ||freeprizezone.com^
 ||ogcodes.club^
 ||sgames.xyz^
-||anonfiles.com/j4R3v139o8/GiftCard_Generator_rar^|$document
 ||mrtgiveways.xyz^
 ||bestgiftscard.com^
 ||gameloot.org^
@@ -1676,7 +1701,6 @@
 ||dulum.info^
 ||keygenseriallicence.com^
 ||surveyaward.co^
-||file-7.com/download/YlaOdlcJ^|$document
 ||officekeygen.tk^
 ||housewool.club^
 ||letsgodownload.ml^
