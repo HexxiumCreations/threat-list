@@ -34,6 +34,8 @@ Below is the submission example for threat-list:
 - Example (Correct way #2):
 ||subdomain.example.com^
 
+** We now have a tool that can automate output of the correct domain format for all 3 of our lists, domaisonly, threatlistmain, and the hosts file output. The installer for this tool is available in this github project folder or on hexxiumcreations.com
+
 At no point should a domain have any prefix such as https:// or www. in the list, addtionally, subdomains should NOT be used unless you fully intend to block ONLY that subdomain and not the entire domain. You do not need to include any pages or data beyond the .com (.tk,.ca, etc) to block the domain.
 
 - For HOSTS submissions, do not include any document or specific page on a domain blocking. - Subdomains and actual domains should work fine - DOMAINSONLY submissions should be exact copies of the HOSTS file minus the 0.0.0.0 and any spaces
